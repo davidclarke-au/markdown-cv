@@ -56,37 +56,38 @@ body {
 	font-size: 10pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
+	font-family: Avenir,Verdana,sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
 
 p {
 	position: relative;
-	left: 28%;
+	left: 25%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 70%;
+	width: 60%;
 }
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
+	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #ccc;
 }
 
 p code {
 	position: absolute;
-	left: -11%;
+	text-align: right;
+	right: -20%;
 }
 
 
 ul { 
 	position: relative;
-	left: 28%;
-	width: 65%;
+	left: 25%;
+	width: 75%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
@@ -114,8 +115,8 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
-	width: 65%;
+	font-family: Avenir,Cousine,Verdana,sans-serif;
+	width: 80%;
 }
 
 h1 {
@@ -123,7 +124,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 28%;
+	left: 25%;
 }
 
 h1+p { 
@@ -139,7 +140,7 @@ h2 {
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 18%;
+	width: 20%;
 }
 
 
@@ -150,7 +151,7 @@ h3 {
 	position: relative;
 	top: 1.6em;
 	text-align: right;
-	width: 18%;
+	width: 20%;
 }
 
 a {
@@ -165,10 +166,10 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 28%;
+	left: 25%;
 	color: #ccc;
-	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-size: 90%;
 }
 
 #webaddress a {
