@@ -54,18 +54,16 @@ FI-00014 University of Helsinki, Finland<br/>
 
 *Publication list also available [online](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
 
-### Submitted
+### In review
 
 A. Koptev, T. A. Ehlers, M. Nettesheim, and D. M. Whipp. Impact of 3D subduction geometry and upper plate rheology on localized deformation in orogen syntaxes. *Earth and Planetary Science Letters*, submitted.
 
-### In review
-
-M. Nettesheim*, T. A. Ehlers, D. M. Whipp, and A. Koptev. The influence of subducting slab advance and erosion on overriding plate deformation in orogen syntaxes. *Solid Earth Discuss*. doi: [10.5194/se-2018-14](https://doi.org/10.5194/se-2018-14), in review. 
+M. Nettesheim\*, T. A. Ehlers, D. M. Whipp, and A. Koptev. The influence of subducting slab advance and erosion on overriding plate deformation in orogen syntaxes. *Solid Earth Discuss*. doi: [10.5194/se-2018-14](https://doi.org/10.5194/se-2018-14), in review. 
 
 ### Journals
 
 `2016`
-K. R. Landry*, I. Coutand, D. M. Whipp, D Grujic, and J. K. Hourigan. Late Neogene tectonically driven crustal exhumation of the Sikkim Himalaya: Insights from inversion of multithermochronologic data. *Tectonics*, *35*(3):833–859. doi: [10.1002/2015TC004102](https://dx.doi.org/10.1002/2015TC004102), 2016.
+K. R. Landry\*, I. Coutand, D. M. Whipp, D Grujic, and J. K. Hourigan. Late Neogene tectonically driven crustal exhumation of the Sikkim Himalaya: Insights from inversion of multithermochronologic data. *Tectonics*, *35*(3):833–859. doi: [10.1002/2015TC004102](https://dx.doi.org/10.1002/2015TC004102), 2016.
 
 `2014`
 D. M. Whipp, C. Beaumont, and J. Braun. Feeding the 'aneurysm': Orogen-parallel mass transport into Nanga Parbat and the western Himalayan syntaxis. *Journal of Geophysical Research: Solid Earth*, *119*(6):5077–5096. doi: [10.1002/2013JB010929](https://dx.doi.org/10.1002/2013JB010929), 2014.
@@ -203,22 +201,22 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 `2018`
 A. Koptev, T. Ehlers, M. Nettesheim and D. Whipp. Impact of 3D subduction geometry and crustal rheology on deformation at orogen syntaxes: Insights from thermo-mechanical modelling. *Geophysical Research Abstracts*, 20, EGU2018-8463-1, 2018.
 
-M. Nettesheim*, T. A. Ehlers and D. M. Whipp. Effects of subducting plate geometry and erosion on overriding plate deformation at plate corners (syntaxes). *Geophysical Research Abstracts*, 20, EGU2018-13467, 2018.
+M. Nettesheim\*, T. A. Ehlers and D. M. Whipp. Effects of subducting plate geometry and erosion on overriding plate deformation at plate corners (syntaxes). *Geophysical Research Abstracts*, 20, EGU2018-13467, 2018.
 
 D. Whipp, H. Tenkanen, and V. Heikinheimo. Geo-Python: An open online introduction to programming in Python for geoscientists. *Geophysical Research Abstracts*, 20, EGU2018-15204, 2018.
 
 `2017`
 L. Kaislaniemi and D. M. Whipp. What controls deformation in a bent three-dimensional orogen? An example from the Bolivian Andes. Abstract T23D-0649 presented at 2017 Fall Meeting, AGU, San Francisco, Calif., USA, 11–15 Dec, 2017.
 
-J. Schütt* and D. M. Whipp. 3D dynamics of crustal deformation along the western Andean margin. NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics, Putten, Netherlands, 27–31 August, 2017.
+J. Schütt\* and D. M. Whipp. 3D dynamics of crustal deformation along the western Andean margin. NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics, Putten, Netherlands, 27–31 August, 2017.
 
 D. M. Whipp and C. Beaumont. Strain partitioning in arcuate orogens: Analytical predictions and numerical experiments based on the Himalayan arc. NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics, Putten, Netherlands, 27–31 August, 2017.
 
 L. Kaislaniemi and D. M. Whipp. What controls deformation in a bent three-dimensional orogen? An example from the Bolivian Andes. DRT 2017 - 21st International Conference on Deformation Mechanisms, Rheology and Tectonics, Inverness, Scotland, 30 April–4 May, 2017.
 
-M. Nettesheim*, T. Ehlers, and D. M. Whipp. Subduction and Slab Advance at Orogen Syntaxes: Predicting Exhumation Rates and Thermochronometric Ages with Numerical Modeling. *Geophysical Research Abstracts*, 19, EGU2017-13042, 2017.
+M. Nettesheim\*, T. Ehlers, and D. M. Whipp. Subduction and Slab Advance at Orogen Syntaxes: Predicting Exhumation Rates and Thermochronometric Ages with Numerical Modeling. *Geophysical Research Abstracts*, 19, EGU2017-13042, 2017.
 
-J. Schütt* and D. M. Whipp. 3D dynamics of crustal deformation driven by oblique subduction: Northern and Central Andes. *Geophysical Research Abstracts*, 19, EGU2017- 11940, 2017.
+J. Schütt\* and D. M. Whipp. 3D dynamics of crustal deformation driven by oblique subduction: Northern and Central Andes. *Geophysical Research Abstracts*, 19, EGU2017- 11940, 2017.
 
 D. M. Whipp and C. Beaumont. Orogen-parallel mass transport along the arcuate Himalaya into Nanga Parbat and the western Himalayan syntaxis. *Geophysical Research Abstracts*, 19, EGU2017-15505, 2017 (**invited**).
 
@@ -229,13 +227,13 @@ I. Kukkonen, E. Koivisto, and D. M. Whipp. Helsinki University Kumpula Campus Dr
 
 L. Kaislaniemi and D. M. Whipp. What controls deformation in a bent three-dimensional orogen? GeoMod 2016 conference, Montpellier, France, 17–20 October, 2016.
 
-J. Schütt* and D. M. Whipp. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. GeoMod 2016 conference, Montpellier, France, 17–20 October, 2016.
+J. Schütt\* and D. M. Whipp. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. GeoMod 2016 conference, Montpellier, France, 17–20 October, 2016.
 
-N. Blomqvist* and D. M. Whipp. Comparing global-scale topographic and climatic metrics to long-term erosion rates using ArcSwath, an efficient new ArcGIS tool for swath profile analysis. *Geophysical Research Abstracts*, 18, EGU2016-6447, 2016.
+N. Blomqvist\* and D. M. Whipp. Comparing global-scale topographic and climatic metrics to long-term erosion rates using ArcSwath, an efficient new ArcGIS tool for swath profile analysis. *Geophysical Research Abstracts*, 18, EGU2016-6447, 2016.
 
-M. Nettesheim*, T. Ehlers, and D. M. Whipp. Influence of Subducting Plate Geometry on Upper Plate Deformation at Orogen Syntaxes: A Thermomechanical Modeling Approach. *Geophysical Research Abstracts*, 18, EGU2016-4113, 2016.
+M. Nettesheim\*, T. Ehlers, and D. M. Whipp. Influence of Subducting Plate Geometry on Upper Plate Deformation at Orogen Syntaxes: A Thermomechanical Modeling Approach. *Geophysical Research Abstracts*, 18, EGU2016-4113, 2016.
 
-J. Schütt* and D. M. Whipp. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Geophysical Research Abstracts*, 18, EGU2016-11430, 2016.
+J. Schütt\* and D. M. Whipp. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Geophysical Research Abstracts*, 18, EGU2016-11430, 2016.
 
 D. M. Whipp and C. Beaumont. Orogen-parallel mass transport along the arcuate Himalayan front into Nanga Parbat and the western Himalayan syntaxis. *Geophysical Research Abstracts*, 18, EGU2016-9744, 2016.
 
@@ -243,7 +241,7 @@ E. Koivisto, I. Kukkonen, and D. M. Whipp. New Master’s program in Solid Earth
 
 I. Kukkonen, E. Koivisto, and D. M. Whipp. Helsinki University Kumpula Campus Drill Hole Project. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
 
-J. Schütt* and D. M. Whipp. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
+J. Schütt\* and D. M. Whipp. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
 
 D. M. Whipp. Orogen-parallel mass transport along the arcuate Himalayan front into Nanga Parbat and the western Himalayan syntaxis. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
 
