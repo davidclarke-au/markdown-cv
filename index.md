@@ -387,7 +387,7 @@ Did not attend/judge in 2015
 `2007-present`
 **Referee**.
 
-**Journals**: *Basin Research*, *Chemical Geology*, *Earth and Planetary Science Letters*, *Earth Surface Processes and Landforms*, *Geological Society of America Bulletin*, *Geology*, *Geophysica*, *Journal of Geology*, *Journal of Geophysical Research - Earth Surface*, *Journal of Geophysical Research - Solid Earth*, *Lithosphere*, *Nature Communications*, *Nature Geoscience*, *Science*, *Tectonics*, *Tectonophysics*
+**Journals**: *Basin Research*, *Chemical Geology*, *Earth and Planetary Science Letters*, *Earth Surface Processes and Landforms*, *G-cubed (Geochemistry, Geophysics, Geosystems)*, *Geological Society of America Bulletin*, *Geology*, *Geophysica*, *Journal of Geology*, *Journal of Geophysical Research - Earth Surface*, *Journal of Geophysical Research - Solid Earth*, *Lithosphere*, *Nature Communications*, *Nature Geoscience*, *Science*, *Tectonics*, *Tectonophysics*
 
 **Research project proposals**: German Science Foundation, Natural Sciences and Engineering Research Council of Canada, US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
 
