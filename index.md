@@ -394,12 +394,12 @@ Did not attend/judge in 2015
 ## University service
 
 `2018-present`
-**Deputy member of department management group**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+**Deputy member**, *Department of Geosciences and Geography mangagement group, University of Helsinki*, Helsinki, Finland.
 
 `2017-present`
-**Board member**, *Masters program in Geology and Geophysics, Department of Geosciences and Geography*, University of Helsinki, Helsinki, Finland.
+**Board member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
 
-**Preparatory group member for BSc of Science in English degree**, *University of Helsinki*, Helsinki, Finland.
+**Preparatory group member**, *BSc of Science in English degree, University of Helsinki*, Helsinki, Finland.
 
 `2015-2017`
 **Department council member**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
