@@ -50,55 +50,42 @@ FI-00014 University of Helsinki, Finland<br/>
 `2003-2008`
 **Research assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
 
+`2000-2002``
+**Tech consultant and Sites rover**, *Campus Computing Sites, University of Michigan*, Ann Arbor, MI, USA.
+
 ## Publications
 
 *Publication list also available [online](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
 
 ### In review
 
-A. Koptev, T. A. Ehlers, M. Nettesheim, and D. M. Whipp. Impact of 3D subduction geometry and upper plate rheology on localized deformation in orogen syntaxes. *Earth and Planetary Science Letters*, in review.
+A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Impact of 3D subduction geometry and upper plate rheology on localized deformation in orogen syntaxes. *Earth and Planetary Science Letters*, in review.
 
-M. Nettesheim\*, T. A. Ehlers, D. M. Whipp, and A. Koptev. The influence of subducting slab advance and erosion on overriding plate deformation in orogen syntaxes. *Solid Earth Discuss*. doi: [10.5194/se-2018-14](https://doi.org/10.5194/se-2018-14), in review. 
+M. Nettesheim\*, T. A. Ehlers, **D. M. Whipp**, and A. Koptev. The influence of subducting slab advance and erosion on overriding plate deformation in orogen syntaxes. *Solid Earth Discuss*. doi: [10.5194/se-2018-14](https://doi.org/10.5194/se-2018-14), in review. 
 
 ### Journals
 
 `2016`
-K. R. Landry\*, I. Coutand, D. M. Whipp, D Grujic, and J. K. Hourigan. Late Neogene tectonically driven crustal exhumation of the Sikkim Himalaya: Insights from inversion of multithermochronologic data. *Tectonics*, *35*(3):833–859. doi: [10.1002/2015TC004102](https://dx.doi.org/10.1002/2015TC004102), 2016.
+K. R. Landry\*, I. Coutand, **D. M. Whipp**, D Grujic, and J. K. Hourigan. Late Neogene tectonically driven crustal exhumation of the Sikkim Himalaya: Insights from inversion of multithermochronologic data. *Tectonics*, *35*(3):833–859. doi: [10.1002/2015TC004102](https://dx.doi.org/10.1002/2015TC004102), 2016.
 
 `2014`
-D. M. Whipp, C. Beaumont, and J. Braun. Feeding the 'aneurysm': Orogen-parallel mass transport into Nanga Parbat and the western Himalayan syntaxis. *Journal of Geophysical Research: Solid Earth*, *119*(6):5077–5096. doi: [10.1002/2013JB010929](https://dx.doi.org/10.1002/2013JB010929), 2014.
+**D. M. Whipp**, C. Beaumont, and J. Braun. Feeding the 'aneurysm': Orogen-parallel mass transport into Nanga Parbat and the western Himalayan syntaxis. *Journal of Geophysical Research: Solid Earth*, *119*(6):5077–5096. doi: [10.1002/2013JB010929](https://dx.doi.org/10.1002/2013JB010929), 2014.
 
-M. A. Murphy, M. H. Taylor, J. Gosse, C. R. P. Silver, D. M. Whipp, and C. Beaumont. Limit of strain partitioning in the Himalaya marked by large earthquakes in western Nepal. *Nature Geoscience*, *7*(1):38–42. doi: [10.1038/ngeo2017](https://dx.doi.org/10.1038/ngeo2017), 2014.
+M. A. Murphy, M. H. Taylor, J. Gosse, C. R. P. Silver, **D. M. Whipp**, and C. Beaumont. Limit of strain partitioning in the Himalaya marked by large earthquakes in western Nepal. *Nature Geoscience*, *7*(1):38–42. doi: [10.1038/ngeo2017](https://dx.doi.org/10.1038/ngeo2017), 2014.
 
-I. Coutand, D. M. Whipp, D. Grujic, M. Bernet, M. G. Fellin, B. Bookhagen, K. R. Landry, S. K. Ghalley, and C. Duncan. Geometry and kinematics of the Main Himalayan Thrust and Neogene crustal exhumation in the Bhutanese Himalaya derived from inversion of multithermochronologic data. *Journal of Geophysical Research: Solid Earth*, *119*(2):1446–1481. doi: [10.1002/2013JB010891](https://dx.doi.org/10.1002/2013JB010891), 2014.
+I. Coutand, **D. M. Whipp**, D. Grujic, M. Bernet, M. G. Fellin, B. Bookhagen, K. R. Landry, S. K. Ghalley, and C. Duncan. Geometry and kinematics of the Main Himalayan Thrust and Neogene crustal exhumation in the Bhutanese Himalaya derived from inversion of multithermochronologic data. *Journal of Geophysical Research: Solid Earth*, *119*(2):1446–1481. doi: [10.1002/2013JB010891](https://dx.doi.org/10.1002/2013JB010891), 2014.
 
 `2009`
-D. M. Whipp, T. A. Ehlers, J. Braun, and C. D. Spath. Effects of exhumation kinematics and topographic evolution on detrital thermochronometer data. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2008JF001195](https://dx.doi.org/10.1029/2008JF001195), 2009.
+**D. M. Whipp**, T. A. Ehlers, J. Braun, and C. D. Spath. Effects of exhumation kinematics and topographic evolution on detrital thermochronometer data. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2008JF001195](https://dx.doi.org/10.1029/2008JF001195), 2009.
 
-T. F. Schildgen, T. A. Ehlers, D. M. Whipp, M. C. van Soest, K. X. Whipple, and K. V. Hodges. Quantifying canyon incision and Andean Plateau surface uplift, southwest Peru: A thermochronometer and numerical modeling approach. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2009JF001305](https://dx.doi.org/10.1029/2009JF001305), 2009.
-
-`2007`
-D. M. Whipp and T. A. Ehlers. Influence of groundwater flow on thermochronometer-derived exhumation rates in the central Nepalese Himalaya. *Geology*, *35*(9):851–854. doi: [10.1130/G23788A.1](https://dx.doi.org/10.1130/G23788A.1),  2007.
-
-K. W. Huntington, T. A. Ehlers, K. V. Hodges, and D. M. Whipp. Topography, exhumation pathway, age uncertainties, and the interpretation of erosion rates from thermochronometer data. *Tectonics*, *26*(4) . doi: [10.1029/2007TC002108](http://dx.doi.org/10.1029/2007TC002108), 2007.
-
-D. M. Whipp, T. A. Ehlers, A. E. Blythe, K. W. Huntington, K. V. Hodges, and D. W. Burbank. Plio-Quaternary exhumation history of the central Nepalese Himalaya: 2. Thermo-kinematic and thermochronometer age prediction model. *Tectonics*, *26*(3). doi: [10.1029/2006TC001991](https://dx.doi.org/10.1029/2006TC001991), 2007.
-
-## Awards and honors
-
-`2014`
-**Exceptional Reviewer for journal** *Lithosphere*, *Geological Society of America*.
+T. F. Schildgen, T. A. Ehlers, **D. M. Whipp**, M. C. van Soest, K. X. Whipple, and K. V. Hodges. Quantifying canyon incision and Andean Plateau surface uplift, southwest Peru: A thermochronometer and numerical modeling approach. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2009JF001305](https://dx.doi.org/10.1029/2009JF001305), 2009.
 
 `2007`
-**Outstanding Graduate Student Instructor Award**, *Rackham Graduate School, University of Michigan*, Ann Arbor, MI, USA.
+**D. M. Whipp** and T. A. Ehlers. Influence of groundwater flow on thermochronometer-derived exhumation rates in the central Nepalese Himalaya. *Geology*, *35*(9):851–854. doi: [10.1130/G23788A.1](https://dx.doi.org/10.1130/G23788A.1),  2007.
 
-**Outstanding Graduate Student Instructor Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
+K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, exhumation pathway, age uncertainties, and the interpretation of erosion rates from thermochronometer data. *Tectonics*, *26*(4) . doi: [10.1029/2007TC002108](http://dx.doi.org/10.1029/2007TC002108), 2007.
 
-`2006`
-**Outstanding Student Paper Award**, *Tectonophysics Section*, American Geophysical Union Fall Meeting.
-
-`2003`
-**Camp Davis Field Geologist Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
+**D. M. Whipp**, T. A. Ehlers, A. E. Blythe, K. W. Huntington, K. V. Hodges, and D. W. Burbank. Plio-Quaternary exhumation history of the central Nepalese Himalaya: 2. Thermo-kinematic and thermochronometer age prediction model. *Tectonics*, *26*(3). doi: [10.1029/2006TC001991](https://dx.doi.org/10.1029/2006TC001991), 2007.
 
 ## Grants and funding
 
@@ -142,6 +129,22 @@ Nested DOUAR: Coupling high and low resolution finite element models to solve 3D
 `2012`
 **Compute Canada National Resource Allocation**, *Compute Canada*, Toronto, ON, Canada, 109 core-years. Co-PI with J. Allen and C. Beaumont.<br/>
 Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt to the Himalayan peaks
+
+## Awards and honors
+
+`2014`
+**Exceptional Reviewer for journal** *Lithosphere*, *Geological Society of America*.
+
+`2007`
+**Outstanding Graduate Student Instructor Award**, *Rackham Graduate School, University of Michigan*, Ann Arbor, MI, USA.
+
+**Outstanding Graduate Student Instructor Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
+
+`2006`
+**Outstanding Student Paper Award**, *Tectonophysics Section*, American Geophysical Union Fall Meeting.
+
+`2003`
+**Camp Davis Field Geologist Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
 
 ## Invited talks
 
@@ -201,57 +204,57 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 *Past 3 years. Asterisks indicate student lead authors.*
 
 `2018`
-A. Koptev, T. Ehlers, M. Nettesheim and D. Whipp. Impact of 3D subduction geometry and crustal rheology on deformation at orogen syntaxes: Insights from thermo-mechanical modelling. *Geophysical Research Abstracts*, 20, EGU2018-8463-1, 2018.
+A. Koptev, T. Ehlers, M. Nettesheim and **D. Whipp**. Impact of 3D subduction geometry and crustal rheology on deformation at orogen syntaxes: Insights from thermo-mechanical modelling. *Geophysical Research Abstracts*, 20, EGU2018-8463-1, 2018.
 
-M. Nettesheim\*, T. A. Ehlers and D. M. Whipp. Effects of subducting plate geometry and erosion on overriding plate deformation at plate corners (syntaxes). *Geophysical Research Abstracts*, 20, EGU2018-13467, 2018.
+M. Nettesheim\*, T. A. Ehlers and **D. M. Whipp**. Effects of subducting plate geometry and erosion on overriding plate deformation at plate corners (syntaxes). *Geophysical Research Abstracts*, 20, EGU2018-13467, 2018.
 
-D. Whipp, H. Tenkanen, and V. Heikinheimo. Geo-Python: An open online introduction to programming in Python for geoscientists. *Geophysical Research Abstracts*, 20, EGU2018-15204, 2018.
+**D. Whipp**, H. Tenkanen, and V. Heikinheimo. Geo-Python: An open online introduction to programming in Python for geoscientists. *Geophysical Research Abstracts*, 20, EGU2018-15204, 2018.
 
 `2017`
-L. Kaislaniemi and D. M. Whipp. What controls deformation in a bent three-dimensional orogen? An example from the Bolivian Andes. Abstract T23D-0649 presented at 2017 Fall Meeting, AGU, San Francisco, Calif., USA, 11–15 Dec, 2017.
+L. Kaislaniemi and **D. M. Whipp**. What controls deformation in a bent three-dimensional orogen? An example from the Bolivian Andes. Abstract T23D-0649 presented at 2017 Fall Meeting, AGU, San Francisco, Calif., USA, 11–15 Dec, 2017.
 
-J. Schütt\* and D. M. Whipp. 3D dynamics of crustal deformation along the western Andean margin. NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics, Putten, Netherlands, 27–31 August, 2017.
+J. Schütt\* and **D. M. Whipp**. 3D dynamics of crustal deformation along the western Andean margin. NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics, Putten, Netherlands, 27–31 August, 2017.
 
-D. M. Whipp and C. Beaumont. Strain partitioning in arcuate orogens: Analytical predictions and numerical experiments based on the Himalayan arc. NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics, Putten, Netherlands, 27–31 August, 2017.
+**D. M. Whipp** and C. Beaumont. Strain partitioning in arcuate orogens: Analytical predictions and numerical experiments based on the Himalayan arc. NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics, Putten, Netherlands, 27–31 August, 2017.
 
-L. Kaislaniemi and D. M. Whipp. What controls deformation in a bent three-dimensional orogen? An example from the Bolivian Andes. DRT 2017 - 21st International Conference on Deformation Mechanisms, Rheology and Tectonics, Inverness, Scotland, 30 April–4 May, 2017.
+L. Kaislaniemi and **D. M. Whipp**. What controls deformation in a bent three-dimensional orogen? An example from the Bolivian Andes. DRT 2017 - 21st International Conference on Deformation Mechanisms, Rheology and Tectonics, Inverness, Scotland, 30 April–4 May, 2017.
 
-M. Nettesheim\*, T. Ehlers, and D. M. Whipp. Subduction and Slab Advance at Orogen Syntaxes: Predicting Exhumation Rates and Thermochronometric Ages with Numerical Modeling. *Geophysical Research Abstracts*, 19, EGU2017-13042, 2017.
+M. Nettesheim\*, T. Ehlers, and **D. M. Whipp**. Subduction and Slab Advance at Orogen Syntaxes: Predicting Exhumation Rates and Thermochronometric Ages with Numerical Modeling. *Geophysical Research Abstracts*, 19, EGU2017-13042, 2017.
 
-J. Schütt\* and D. M. Whipp. 3D dynamics of crustal deformation driven by oblique subduction: Northern and Central Andes. *Geophysical Research Abstracts*, 19, EGU2017- 11940, 2017.
+J. Schütt\* and **D. M. Whipp**. 3D dynamics of crustal deformation driven by oblique subduction: Northern and Central Andes. *Geophysical Research Abstracts*, 19, EGU2017- 11940, 2017.
 
-D. M. Whipp and C. Beaumont. Orogen-parallel mass transport along the arcuate Himalaya into Nanga Parbat and the western Himalayan syntaxis. *Geophysical Research Abstracts*, 19, EGU2017-15505, 2017 (**invited**).
+**D. M. Whipp** and C. Beaumont. Orogen-parallel mass transport along the arcuate Himalaya into Nanga Parbat and the western Himalayan syntaxis. *Geophysical Research Abstracts*, 19, EGU2017-15505, 2017 (**invited**).
 
 `2016`
-D. M. Whipp, I. Coutand, B. Bookhagen, and D. Grujic. Interpreting records of tectonic and erosional processes using detrital thermochronology: An example from the Bhutan Himalaya. Abstract T42B-05 presented at 2016 Fall Meeting, AGU, San Francisco, Calif., USA, 12–16 Dec, 2016 (**invited**).
+**D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Interpreting records of tectonic and erosional processes using detrital thermochronology: An example from the Bhutan Himalaya. Abstract T42B-05 presented at 2016 Fall Meeting, AGU, San Francisco, Calif., USA, 12–16 Dec, 2016 (**invited**).
 
-I. Kukkonen, E. Koivisto, and D. M. Whipp. Helsinki University Kumpula Campus Drill Hole Project. *Lithosphere 2016 - Ninth Symposium on the Structure, Composition and Evolution of the Lithosphere in Finland. Programme and Extended Abstracts, Espoo, Finland, November 9–11, 2016*, Institute of Seismology, University of Helsinki, 2016.
+I. Kukkonen, E. Koivisto, and **D. M. Whipp**. Helsinki University Kumpula Campus Drill Hole Project. *Lithosphere 2016 - Ninth Symposium on the Structure, Composition and Evolution of the Lithosphere in Finland. Programme and Extended Abstracts, Espoo, Finland, November 9–11, 2016*, Institute of Seismology, University of Helsinki, 2016.
 
-L. Kaislaniemi and D. M. Whipp. What controls deformation in a bent three-dimensional orogen? GeoMod 2016 conference, Montpellier, France, 17–20 October, 2016.
+L. Kaislaniemi and **D. M. Whipp**. What controls deformation in a bent three-dimensional orogen? GeoMod 2016 conference, Montpellier, France, 17–20 October, 2016.
 
-J. Schütt\* and D. M. Whipp. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. GeoMod 2016 conference, Montpellier, France, 17–20 October, 2016.
+J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. GeoMod 2016 conference, Montpellier, France, 17–20 October, 2016.
 
-N. Blomqvist\* and D. M. Whipp. Comparing global-scale topographic and climatic metrics to long-term erosion rates using ArcSwath, an efficient new ArcGIS tool for swath profile analysis. *Geophysical Research Abstracts*, 18, EGU2016-6447, 2016.
+N. Blomqvist\* and **D. M. Whipp**. Comparing global-scale topographic and climatic metrics to long-term erosion rates using ArcSwath, an efficient new ArcGIS tool for swath profile analysis. *Geophysical Research Abstracts*, 18, EGU2016-6447, 2016.
 
-M. Nettesheim\*, T. Ehlers, and D. M. Whipp. Influence of Subducting Plate Geometry on Upper Plate Deformation at Orogen Syntaxes: A Thermomechanical Modeling Approach. *Geophysical Research Abstracts*, 18, EGU2016-4113, 2016.
+M. Nettesheim\*, T. Ehlers, and **D. M. Whipp**. Influence of Subducting Plate Geometry on Upper Plate Deformation at Orogen Syntaxes: A Thermomechanical Modeling Approach. *Geophysical Research Abstracts*, 18, EGU2016-4113, 2016.
 
-J. Schütt\* and D. M. Whipp. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Geophysical Research Abstracts*, 18, EGU2016-11430, 2016.
+J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Geophysical Research Abstracts*, 18, EGU2016-11430, 2016.
 
-D. M. Whipp and C. Beaumont. Orogen-parallel mass transport along the arcuate Himalayan front into Nanga Parbat and the western Himalayan syntaxis. *Geophysical Research Abstracts*, 18, EGU2016-9744, 2016.
+**D. M. Whipp** and C. Beaumont. Orogen-parallel mass transport along the arcuate Himalayan front into Nanga Parbat and the western Himalayan syntaxis. *Geophysical Research Abstracts*, 18, EGU2016-9744, 2016.
 
-E. Koivisto, I. Kukkonen, and D. M. Whipp. New Master’s program in Solid Earth Geophysics at the University of Helsinki: Lessons from one year of operation. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
+E. Koivisto, I. Kukkonen, and **D. M. Whipp**. New Master’s program in Solid Earth Geophysics at the University of Helsinki: Lessons from one year of operation. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
 
-I. Kukkonen, E. Koivisto, and D. M. Whipp. Helsinki University Kumpula Campus Drill Hole Project. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
+I. Kukkonen, E. Koivisto, and **D. M. Whipp**. Helsinki University Kumpula Campus Drill Hole Project. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
 
-J. Schütt\* and D. M. Whipp. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
+J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
 
-D. M. Whipp. Orogen-parallel mass transport along the arcuate Himalayan front into Nanga Parbat and the western Himalayan syntaxis. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
+**D. M. Whipp**. Orogen-parallel mass transport along the arcuate Himalayan front into Nanga Parbat and the western Himalayan syntaxis. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
 
 ## Teaching
 
 Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"></i> = course GitHub page, <i class="fab fa-youtube"></i> = course YouTube channel
 
-### Courses taught
+### Main courses
 
 `2013-present`
 *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
@@ -292,7 +295,7 @@ Co-taught with Lars Kaislaniemi
 ### Assistant teaching
 
 `2003–2007`
-*Department of Geological Sciences, University of Michigan*, Ann Arbor, Michigan, USA
+*Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA
 
 - \- Earth Surface Processes and Soils laboratory
 - \- Geology of the Rockies, University of Michigan Camp Davis, WY, USA
@@ -416,8 +419,8 @@ Did not attend/judge in 2015
 ## Community outreach
 
 `2015`
-**Lecturer**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
-Introduction to my general areas of research on mountain evolution for high school students from Tampere, Finland
+**Guest lecture**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.<br/>
+Introduction to my general areas of research on mountain evolution for visiting high school students from Tampere, Finland
 
 `2013`
 **Presenter**, *Science Bazaar, University of Helsinki*, Helsinki, Finland.<br/>
@@ -425,13 +428,13 @@ Presentation on mountain systems to the audience of undergraduate students prese
 
 `2007`
 **Guest lecture**, *Melbourne High School*, Melbourne, FL, USA.<br/>
-Introduction to the geology and culture of Nepal related to reading of Jon Krakauer’s Into Thin Air for eleventh grade English students
+Introduction to the geology and culture of Nepal related to reading of Jon Krakauer’s *Into Thin Air* for eleventh grade English students
 
 ## Languages
 
 English: Native
 
-Finnish:  CEFR level A1.3
+Finnish: CEFR level A1.3
 
 French: Basic knowledge
 
@@ -451,6 +454,8 @@ American Geophysical Union
 Birth date: 9 March 1980
 
 Citizenship: USA
+
+Resident status: Finland (Permanent resident)
 
 Family: Married, two children
 
