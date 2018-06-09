@@ -27,7 +27,7 @@ FI-00014 University of Helsinki, Finland<br/>
 `1998-2002`
 **B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
 
-## Professional experience
+## Experience
 
 `2017-present`
 **Associate professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
@@ -102,12 +102,14 @@ D. M. Whipp, T. A. Ehlers, A. E. Blythe, K. W. Huntington, K. V. Hodges, and D. 
 
 ## Grants and funding
 
+*Funding includes only amounts over 5000€*
+
 ### Pending
 
 **Academy Project**, *Academy of Finland*, Finland, 599 371€. Sole PI.<br/>
 Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
 
-### Research funding (over 5000€)
+### Research funding
 
 `2014–2018`
 **Academy Project**, *Academy of Finland*, Finland, 451 763€. Sole PI.<br/>
@@ -194,9 +196,9 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 **Session co-convener**, *Geological Society of America Annual Meeting*, Denver, Colorado, USA.<br/>
 “Orogeny: From rigid plates to diffuse lithospheric deformation”, one of several sessions celebrating the 30th anniversary of the Structural Geology and Tectonics Division of the GSA
 
-### Presentations (past 3 years)
+### Select presentations
 
-*Asterisks indicate student lead authors.*
+*Past 3 years. Asterisks indicate student lead authors.*
 
 `2018`
 A. Koptev, T. Ehlers, M. Nettesheim and D. Whipp. Impact of 3D subduction geometry and crustal rheology on deformation at orogen syntaxes: Insights from thermo-mechanical modelling. *Geophysical Research Abstracts*, 20, EGU2018-8463-1, 2018.
@@ -245,11 +247,11 @@ J. Schütt\* and D. M. Whipp. Controls on continental strain partitioning above
 
 D. M. Whipp. Orogen-parallel mass transport along the arcuate Himalayan front into Nanga Parbat and the western Himalayan syntaxis. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
 
-## Teaching experience
+## Teaching
 
 Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"></i> = course GitHub page, <i class="fab fa-youtube"></i> = course YouTube channel
 
-### Courses designed and taught
+### Courses taught
 
 `2013-present`
 *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
@@ -297,7 +299,7 @@ Co-taught with Lars Kaislaniemi
 - \- Introduction to Geology laboratory/discussion
 - \- Introduction to Oceanography laboratory
 
-## Research supervision
+## Supervision
 
 ### Visiting researchers
 
@@ -352,7 +354,7 @@ Now: Ph.D. student, Oregon State University
 `2011–2014`
 **Kyle Landry**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
 
-### Undergraduate research assistants
+### Undergraduate research
 `2017-present`
 **Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
 
@@ -369,7 +371,6 @@ Co-supervised with Todd Ehlers
 `2004`
 **Nick Olds**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.<br/>
 Co-supervised with Todd Ehlers
-
 
 ## Professional service
 
@@ -390,7 +391,7 @@ Did not attend/judge in 2015
 
 **Research project proposals**: German Science Foundation, Natural Sciences and Engineering Research Council of Canada, US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
 
-## Departmental/university service
+## University service
 
 `2018-present`
 **Deputy member of department management group**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
@@ -434,7 +435,7 @@ Finnish:  CEFR level A1.3
 
 French: Basic knowledge
 
-## Professional memberships
+## Memberships
 
 `2014-present`
 European Geosciences Union
@@ -454,6 +455,6 @@ Citizenship: USA
 Family: Married, two children
 
 
-<br/>Last updated: May 2018<br/><br/>
+<br/>Last updated: June 2018<br/><br/>
 
 
