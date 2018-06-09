@@ -455,7 +455,7 @@ Birth date: 9 March 1980
 
 Citizenship: USA
 
-Resident status: Finland (Permanent resident)
+Residence: Finland (Permanent resident)
 
 Family: Married, two children
 
