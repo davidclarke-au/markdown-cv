@@ -50,7 +50,7 @@ FI-00014 University of Helsinki, Finland<br/>
 `2003-2008`
 **Research assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
 
-`2000-2002``
+`2000-2002`
 **Tech consultant and Sites rover**, *Campus Computing Sites, University of Michigan*, Ann Arbor, MI, USA.
 
 ## Publications
