@@ -55,7 +55,7 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ## Publications
 
-*Publication list also available [online](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
+*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
 
 ### Submitted
 
