@@ -408,14 +408,14 @@ Did not attend/judge in 2015
 
 **Preparatory group member**, *BSc of Science in English degree, University of Helsinki*, Helsinki, Finland.
 
+`2013-present`
+**Co-coordinator geoscience seminar**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
 `2015-2017`
 **Department council member**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 `2014-2016`
 **Co-coordinator of Solid Earth Geophysics Masters program**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2013-present`
-**Co-coordinator geoscience seminar**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 `2007-2008`
 **Graduate Student Mentor**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, Michigan, USA.
