@@ -16,7 +16,8 @@ FI-00014 University of Helsinki, Finland<br/>
   <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg</a><br/> 
   <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a> - 
   <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
-  <a href="https://youtube.com/channel/UCIvX6ZFgUP5DgvBSomhz-yw"><i class="fab fa-youtube"></i> YouTube channel</a>
+  <a href="https://www.researchgate.net/profile/David_Whipp"<i class="ai ai-researchgate"></i> ResearchGate</a> - 
+  <a href="https://youtube.com/channel/UCIvX6ZFgUP5DgvBSomhz-yw"><i class="fab fa-youtube"></i> YouTube</a>
 </div>
 
 ## Education
