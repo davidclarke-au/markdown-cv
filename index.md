@@ -12,12 +12,12 @@ FI-00014 University of Helsinki, Finland<br/>
 <a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg</a><br/> 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a> - 
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="https://youtube.com/channel/UCIvX6ZFgUP5DgvBSomhz-yw"><i class="fab fa-youtube"></i> Dave Whipp</a>
+  Me: <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a> - <a href="https://youtube.com/channel/UCIvX6ZFgUP5DgvBSomhz-yw"><i class="fab fa-youtube"></i> Dave Whipp</a><br/>
+  Group and software: <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg</a> - 
+  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a><br/>
+  Research: <a href="https://scholar.google.fi/citations?user=FvYhWOAAAAAJ&hl=en"><i class="ai ai-google-scholar"></i> David M. Whipp</a> - 
+  <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
+  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a>  
 </div>
 
 ## Education
