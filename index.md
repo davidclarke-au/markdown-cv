@@ -94,10 +94,11 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 
 *Funding includes only amounts over 5000€*
 
-### Pending
+<!-- ### Pending
 
 **Academy Project**, *Academy of Finland*, Finland, 599 371€. Sole PI.<br/>
 Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
+-->
 
 ### Research funding
 
