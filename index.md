@@ -311,7 +311,7 @@ Co-taught with Lars Kaislaniemi
 ### Postdoctoral researchers
 
 `2015-present`
-**Lars Kaislaniemi**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+**[Lars Kaislaniemi](http://kaislaniemi.net/)**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 ### Doctoral students
 
