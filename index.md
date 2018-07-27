@@ -324,6 +324,9 @@ Co-supervised with Todd Ehlers
 
 ### Masters students
 
+`2018-present`
+**Aleksi Rantanen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
 `2017-present`
 **Nelli Metiäinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
