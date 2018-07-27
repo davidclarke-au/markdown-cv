@@ -308,11 +308,6 @@ Co-taught with Lars Kaislaniemi
 
 ## Supervision
 
-### Visiting researchers
-
-`2017-present`
-**Mehrnoosh Ghadimi**, *Department of Physical Geography, University of Tehran*, Tehran, Iran.
-
 ### Postdoctoral researchers
 
 `2015-present`
@@ -347,6 +342,11 @@ Now: Geologist, Pöyry Finland Oy
 `2016–2017`
 **Jennifer Hällsten**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Jorina Schütt
+
+### Visiting researchers
+
+`2017-present`
+**Mehrnoosh Ghadimi**, *Department of Physical Geography, University of Tehran*, Tehran, Iran.
 
 ### Supervisory committee
 
