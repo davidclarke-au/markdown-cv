@@ -467,6 +467,6 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 
 
-<br/>Last updated: June 2018<br/><br/>
+<br/>Last updated: August 2018<br/><br/>
 
 
