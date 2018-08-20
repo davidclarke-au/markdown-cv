@@ -60,6 +60,8 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ### In review
 
+**D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. *Nature Communications*, submitted.
+
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Lithosphere*, in review.
 
 A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Impact of 3D subduction geometry and upper plate rheology on localized deformation in orogen syntaxes. *Earth and Planetary Science Letters*, in review.
