@@ -156,7 +156,7 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 ## Invited talks
 
 `2018`
-**Thermo 2018 - 16th International Conference on Thermochronology**, *Session 2: Diffusion / annealing kinetics and thermal modelling*, Quedlinburg, Germany.
+**16th International Conference on Thermochronology (Thermo 2018)**, *Session 2: Diffusion / annealing kinetics and thermal modelling*, Quedlinburg, Germany.
 
 `2017`
 **University of Lausanne**, *Department seminar, Institute of Earth Sciences*, Lausanne, Switzerland.
