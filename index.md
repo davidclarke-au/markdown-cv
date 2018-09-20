@@ -155,6 +155,9 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 
 ## Invited talks
 
+`2018`
+**Thermo 2018 - 16th International Conference on Thermochronology**, *Session 2: Diffusion / annealing kinetics and thermal modelling*, Quedlinburg, Germany.
+
 `2017`
 **University of Lausanne**, *Department seminar, Institute of Earth Sciences*, Lausanne, Switzerland.
 
@@ -211,6 +214,8 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 *Past 3 years. Asterisks indicate student lead authors.*
 
 `2018`
+**D. M. Whipp**, I. Coutand, B. Bookhagen, D. Grujic, and T. A. Ehlers. Whence the age? Use of numerical models to extract the record of tectonic and erosional processes in detrital thermochronometer data. Proceedings of the 16th International Conference on Thermochronology, Quedlinburg, Germany, 17-21 September 2018.
+
 A. Koptev, T. Ehlers, M. Nettesheim and **D. Whipp**. Impact of 3D subduction geometry and crustal rheology on deformation at orogen syntaxes: Insights from thermo-mechanical modelling. *Geophysical Research Abstracts*, 20, EGU2018-8463-1, 2018.
 
 M. Nettesheim\*, T. A. Ehlers and **D. M. Whipp**. Effects of subducting plate geometry and erosion on overriding plate deformation at plate corners (syntaxes). *Geophysical Research Abstracts*, 20, EGU2018-13467, 2018.
