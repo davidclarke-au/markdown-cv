@@ -350,7 +350,7 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 
 - \- Conducting scientific research &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
 - \- Current Topics in Global Geophysics Research
-- \- Geo-Python (part of Introduction to Quantitative Geology; with Henrikki Tenkanen) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
+- \- Geo-Python (with Henrikki Tenkanen) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
 - \- Geodynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCsSTyHHQVvnGdnKbidSj94A/playlists"><i class="fab fa-youtube"></i></a>
 - \- Introduction to Lithospheric Geodynamic Modelling (with Lars Kaislaniemi) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introgm.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroGM"><i class="fab fa-github"></i></a>
 - \- Introduction to Quantitative Geology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introqg.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroQG"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UClNYqKkR-lRWyn7jes0Khcw/videos"><i class="fab fa-youtube"></i></a>
@@ -395,7 +395,7 @@ Co-taught with Lars Kaislaniemi
 
 ### Postdoctoral researchers
 
-`2015-present`
+`2015-2018`
 **[Lars Kaislaniemi](http://kaislaniemi.net/)**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 ### Doctoral students
@@ -489,15 +489,18 @@ Did not attend/judge in 2015
 ## University service
 
 `2018-present`
+**Board member**, *Bachelor’s Programme in Science (in English)*, University of Helsinki, Helsinki, Finland.
+
 **Deputy member**, *Department of Geosciences and Geography mangagement group, University of Helsinki*, Helsinki, Finland.
 
 `2017-present`
 **Board member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
 
-**Preparatory group member**, *BSc of Science in English degree, University of Helsinki*, Helsinki, Finland.
-
 `2013-present`
 **Co-coordinator geoscience seminar**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
+`2017-2018`
+**Preparatory group member**, *BSc of Science in English degree, University of Helsinki*, Helsinki, Finland.
 
 `2015-2017`
 **Department council member**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
@@ -552,6 +555,6 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 
 
-<br/>Last updated: August 2018<br/><br/>
+<br/>Last updated: September 2018<br/><br/>
 
 
