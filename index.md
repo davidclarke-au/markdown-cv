@@ -288,7 +288,7 @@ K. Landry*, I. Coutand, D. M. Whipp, and D. Grujic. Late Miocene-present exhumat
 
 I. Coutand, D. M. Whipp, D. Grujic, M. Brenet, M. G. Fellin, B. Bookhagen, K. Landry, K. Ghalley, and C. Duncan. Geometry and kinematics of the Main Himalayan Thrust and Neogene crustal exhumation in the Bhutanese Himalaya derived from inversion of multi- thermochronologic data. European Geosciences Union General Assembly, Vienna, Austria, 2014
 
-C.G.Creason*,J.Gosse,D.M.Whipp,M.Young,andR.Kislitsyn.Anexhumationhistory of Hall Peninsula, Baffin Island, Canada derived from low-temperature thermochronology and 3D thermokinematic modeling. European Geosciences Union General Assembly, Vi- enna, Austria, 2014
+C.G.Creason*, J.Gosse, D.M.Whipp, M.Young, and R. Kislitsyn. An exhumation history of Hall Peninsula, Baffin Island, Canada derived from low-temperature thermochronology and 3D thermokinematic modeling. European Geosciences Union General Assembly, Vi- enna, Austria, 2014
 
 D. M. Whipp and T. A. Ehlers. Quantifying the effect of landslide-derived sediments on detrital thermochronology. European Geosciences Union General Assembly, Vienna, Aus- tria, 2014
 
@@ -503,6 +503,9 @@ Did not attend/judge in 2015
 `2017-2018`
 **Preparatory group member**, *BSc of Science in English degree, University of Helsinki*, Helsinki, Finland.
 
+`2013-present`
+**Co-coordinator geoscience seminar**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
 `2015-2017`
 **Department council member**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
@@ -557,5 +560,3 @@ Family: Married, two children
 
 
 <br/>Last updated: September 2018<br/><br/>
-
-
