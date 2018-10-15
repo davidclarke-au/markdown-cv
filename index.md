@@ -69,7 +69,7 @@ A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Impact of 3D subduc
 ### Accepted/In press
 
 M. Nettesheim\*, T. A. Ehlers, **D. M. Whipp**, and A. Koptev. The influence of upper plate advance and erosion on overriding
-plate deformation in orogen syntaxes. *Solid Earth Discuss*. doi: [10.5194/se-2018-14](https://doi.org/10.5194/se-2018-14), accepted pending minor revision. 
+plate deformation in orogen syntaxes. *Solid Earth Discuss*. doi: [10.5194/se-2018-14](https://doi.org/10.5194/se-2018-14), in press. 
 
 ### Journals
 
