@@ -6,7 +6,7 @@ title: David Whipp's CV
 Associate professor, University of Helsinki
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Gustaf Hällströmin katu 2b)<br/>
+P.O. Box 68 (Pietari Kalmin katu 5)<br/>
 FI-00014 University of Helsinki, Finland<br/>
 
 <a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
