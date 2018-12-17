@@ -439,6 +439,9 @@ Co-supervised with Jorina Schütt
 
 ### Supervisory committee
 
+`2018`
+**R\'{e}mi Vachon**, *Doctoral student, Dept. of Earth Sciences, Uppsala University*, Uppsala, Sweden.
+
 `2011–2016`
 **Janice Allen**, *Doctoral student, Dept. of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
 Now: Imperial Oil, Canada
