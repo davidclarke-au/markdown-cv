@@ -61,11 +61,11 @@ FI-00014 University of Helsinki, Finland<br/>
 ### In revision
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Geochemistry, Geophysics, Geosystems*, in revision.
 
+**D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. *Science Advances*, in revision.
+
 ### In review
 
-**D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. *Science Advances*, in review.
-
-A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Impact of 3D subduction geometry and upper plate rheology on localized deformation in orogen syntaxes. *Tectonics*, in review.
+A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Impact of 3D subduction geometry and upper plate rheology on localized deformation in orogen syntaxes. *Tectonics*, revised text submitted.
 
 ### Journals
 
@@ -438,6 +438,9 @@ Co-supervised with Jorina Schütt
 **Mehrnoosh Ghadimi**, *Department of Physical Geography, University of Tehran*, Tehran, Iran.
 
 ### Supervisory committee
+
+`2018`
+**R\'{e}mi Vachon**, *Doctoral student, Dept. of Earth Sciences, Uppsala University*, Uppsala, Sweden.
 
 `2011–2016`
 **Janice Allen**, *Doctoral student, Dept. of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
