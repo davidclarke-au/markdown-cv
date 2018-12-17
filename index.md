@@ -6,7 +6,7 @@ title: David Whipp's CV
 Associate professor, University of Helsinki
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Gustaf Hällströmin katu 2b)<br/>
+P.O. Box 68 (Pietari Kalmin katu 5)<br/>
 FI-00014 University of Helsinki, Finland<br/>
 
 <a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
@@ -58,20 +58,20 @@ FI-00014 University of Helsinki, Finland<br/>
 
 *Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
 
+### In revision
+J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Geochemistry, Geophysics, Geosystems*, in revision.
+
 ### In review
 
 **D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. *Science Advances*, in review.
 
-J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Lithosphere*, in review.
-
 A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Impact of 3D subduction geometry and upper plate rheology on localized deformation in orogen syntaxes. *Tectonics*, in review.
 
-### Accepted/In press
-
-M. Nettesheim\*, T. A. Ehlers, **D. M. Whipp**, and A. Koptev. The influence of upper plate advance and erosion on overriding
-plate deformation in orogen syntaxes. *Solid Earth Discuss*. doi: [10.5194/se-2018-14](https://doi.org/10.5194/se-2018-14), in press. 
-
 ### Journals
+
+`2018`
+M. Nettesheim\*, T. A. Ehlers, **D. M. Whipp**, and A. Koptev. The influence of upper-plate advance and erosion on overriding
+plate deformation in orogen syntaxes. *Solid Earth*, 9, 1207-1224. doi: [10.5194/se-9-1207-2018](https://doi.org/10.5194/se-9-1207-2018), 2018.
 
 `2016`
 K. R. Landry\*, I. Coutand, **D. M. Whipp**, D Grujic, and J. K. Hourigan. Late Neogene tectonically driven crustal exhumation of the Sikkim Himalaya: Insights from inversion of multithermochronologic data. *Tectonics*, *35*(3):833–859. doi: [10.1002/2015TC004102](https://dx.doi.org/10.1002/2015TC004102), 2016.
