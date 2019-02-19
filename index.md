@@ -63,11 +63,12 @@ J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning ab
 
 ### In review
 
-**D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. *Science Advances*, revised text submitted.
-
 A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Impact of 3D subduction geometry and upper plate rheology on localized deformation in orogen syntaxes. *Tectonics*, revised text submitted.
 
 ### Journals
+
+`2019`
+**D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. *Science Advances*, accepted.
 
 `2018`
 M. Nettesheim\*, T. A. Ehlers, **D. M. Whipp**, and A. Koptev. The influence of upper-plate advance and erosion on overriding
