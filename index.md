@@ -157,6 +157,9 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 
 ## Invited talks
 
+`2019`
+**University of Turku**, *Department seminar, Department of Geography and Geology*, Turku, Finland.
+
 `2018`
 **16th International Conference on Thermochronology (Thermo 2018)**, *Session 2: Diffusion / annealing kinetics and thermal modelling*, Quedlinburg, Germany.
 
@@ -411,13 +414,16 @@ Co-supervised with Todd Ehlers
 
 ### Masters students
 
+`2019-present`
+**Yijun Wang**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
+
 `2018-present`
-**Aleksi Rantanen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+**Aleksi Rantanen**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
 
 `2017-present`
-**Nelli Metiäinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+**Nelli Metiäinen**, *Master's Program in Geography, University of Helsinki*, Helsinki, Finland.
 
-**Lotta Ylä-Mella**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
+**Lotta Ylä-Mella**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Ilmo Kukkonen
 
 `2014-2016`
@@ -501,9 +507,6 @@ Did not attend/judge in 2015
 `2017-present`
 **Board member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
 
-`2013-present`
-**Co-coordinator geoscience seminar**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
 `2017-2018`
 **Preparatory group member**, *BSc of Science in English degree, University of Helsinki*, Helsinki, Finland.
 
@@ -563,4 +566,4 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 
 
-<br/>Last updated: October 2018<br/><br/>
+<br/>Last updated: March 2019<br/><br/>
