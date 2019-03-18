@@ -383,7 +383,7 @@ Co-taught with Lars Kaislaniemi
 `2015-present`
 **Geological Processes/Dynamic Earth (Introductory geoscience course)**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
-`2010`
+`2010, 2019`
 **Geochronology and Thermochronology**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
 
 ### Assistant teaching
