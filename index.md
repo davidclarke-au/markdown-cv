@@ -68,7 +68,7 @@ A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Impact of 3D subduc
 ### Journals
 
 `2019`
-**D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. *Science Advances*, accepted.
+**D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. *Science Advances*, in press.
 
 `2018`
 M. Nettesheim\*, T. A. Ehlers, **D. M. Whipp**, and A. Koptev. The influence of upper-plate advance and erosion on overriding
