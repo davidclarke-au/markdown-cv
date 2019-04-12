@@ -464,6 +464,9 @@ Now: Ph.D. student, Oregon State University
 `2017-present`
 **Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
 
+`2018`
+**Marta Girbau**, *Department of Geology, Universitat Autònoma de Barcelona*, Barcelona, Spain.
+
 `2016`
 **Miro Pütz**, *Institute of Geophysics, University of Hamburg*, Hamburg, Germany.
 
