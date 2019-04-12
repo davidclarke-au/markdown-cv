@@ -217,6 +217,8 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 ### Presentations
 
 *Past 3 years. Asterisks indicate student lead authors.*
+`2019`
+**D. M. Whipp**, P. Uotila, I. Kukkonen, E. Koivisto, T. Luhta. New geophysics study programs at the University of Helsinki. *XXIX Geophysics Days. Programme and Extended Abstracts, Rovaniemi, Finland, March 21–22, 2019*, Geophysical Society of Finland, 2019.
 
 `2018`
 **D. M. Whipp**, I. Coutand, B. Bookhagen, D. Grujic, and T. A. Ehlers. Whence the age? Use of numerical models to extract the record of tectonic and erosional processes in detrital thermochronometer data. Proceedings of the 16th International Conference on Thermochronology, Quedlinburg, Germany, 17-21 September 2018 (**invited**).
@@ -242,6 +244,7 @@ J. Schütt\* and **D. M. Whipp**. 3D dynamics of crustal deformation driven by 
 
 **D. M. Whipp** and C. Beaumont. Orogen-parallel mass transport along the arcuate Himalaya into Nanga Parbat and the western Himalayan syntaxis. *Geophysical Research Abstracts*, 19, EGU2017-15505, 2017 (**invited**).
 
+<!--
 `2016`
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Interpreting records of tectonic and erosional processes using detrital thermochronology: An example from the Bhutan Himalaya. Abstract T42B-05 presented at 2016 Fall Meeting, AGU, San Francisco, Calif., USA, 12–16 Dec, 2016 (**invited**).
 
@@ -267,7 +270,6 @@ J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning a
 
 **D. M. Whipp**. Orogen-parallel mass transport along the arcuate Himalayan front into Nanga Parbat and the western Himalayan syntaxis. 32nd Nordic Geological Winter Meeting, Helsinki, Finland 13–15 January, 2016.
 
-<!--
 `2015 (2)`
 I. Coutand, D. M. Whipp, B. Bookhagen, and D. Grujic. Impact of Drainage Basin Geology and Geomorphology on Detrital Thermochronometric Data from Modern River Sands: A Case Study in the Bhutan Himalaya. Abstract T24B-04 presented at 2015 Fall Meeting, AGU, San Francisco, Calif., USA, 14–18 December, 2015 (invited).
 
