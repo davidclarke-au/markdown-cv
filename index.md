@@ -517,11 +517,11 @@ Did not attend/judge in 2015
 `2017-present`
 **Board member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
 
-`2017-2018`
-**Preparatory group member**, *BSc of Science in English degree, University of Helsinki*, Helsinki, Finland.
-
 `2013-present`
 **Co-coordinator geoscience seminar**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
+`2017-2018`
+**Preparatory group member**, *BSc of Science in English degree, University of Helsinki*, Helsinki, Finland.
 
 `2015-2017`
 **Department council member**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
