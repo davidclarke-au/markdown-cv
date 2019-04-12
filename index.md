@@ -217,6 +217,7 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 ### Presentations
 
 *Past 3 years. Asterisks indicate student lead authors.*
+
 `2019`
 **D. M. Whipp**, P. Uotila, I. Kukkonen, E. Koivisto, T. Luhta. New geophysics study programs at the University of Helsinki. *XXIX Geophysics Days. Programme and Extended Abstracts, Rovaniemi, Finland, March 21–22, 2019*, Geophysical Society of Finland, 2019.
 
