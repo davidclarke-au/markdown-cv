@@ -504,6 +504,10 @@ Did not attend/judge in 2015
 
 **Deputy member**, *Department of Geosciences and Geography mangagement group, University of Helsinki*, Helsinki, Finland.
 
+**Leader**, *Department of Geosciences and Geography well-being group, University of Helsinki*, Helsinki, Finland.
+
+**Member**, *Department of Geosciences and Geography communications group, University of Helsinki*, Helsinki, Finland.
+
 `2017-present`
 **Board member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
 
