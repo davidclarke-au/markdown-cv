@@ -63,7 +63,7 @@ J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning ab
 
 ### In review
 
-A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Impact of 3D subduction geometry and upper plate rheology on localized deformation in orogen syntaxes. *Tectonics*, revised text submitted.
+A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Response of a rheologically stratified lithosphere to subduction of an indenter-shaped plate: Insights into localized exhumation at orogen syntaxes. *Tectonics*, in review.
 
 ### Journals
 
