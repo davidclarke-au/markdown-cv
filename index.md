@@ -356,13 +356,17 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 `2013-present`
 *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
-- \- Conducting scientific research &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
 - \- Current Topics in Global Geophysics Research
 - \- Geo-Python (with Henrikki Tenkanen) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
 - \- Geodynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCsSTyHHQVvnGdnKbidSj94A/playlists"><i class="fab fa-youtube"></i></a>
 - \- Introduction to Lithospheric Geodynamic Modelling (with Lars Kaislaniemi) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introgm.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroGM"><i class="fab fa-github"></i></a>
 - \- Introduction to Quantitative Geology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introqg.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroQG"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UClNYqKkR-lRWyn7jes0Khcw/videos"><i class="fab fa-youtube"></i></a>
 - \- Lithospheric Structure and Dynamics (with Ilmo Kukkonen)
+
+`2018`
+*Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
+- \- Conducting scientific research &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
 
 ### Short courses
 
@@ -383,14 +387,14 @@ Co-taught with Lars Kaislaniemi
 
 ### Guest lectures
 
-`2015-present`
-**Geological Processes/Dynamic Earth (Introductory geoscience course)**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
 `2019`
 **Geo-Python**, *Department of Geography and Geology, University of Turku and Department of Geology and Mineralogy, Åbo Akademi University*, Turku, Finland.
 
 `2010, 2019`
 **Geochronology and Thermochronology**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
+
+`2015-2018`
+**Geological Processes/Dynamic Earth (Introductory geoscience course)**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 ### Assistant teaching
 
@@ -427,10 +431,11 @@ Co-supervised with Todd Ehlers
 **Aleksi Rantanen**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
 
 `2017-present`
-**Nelli Metiäinen**, *Master's Program in Geography, University of Helsinki*, Helsinki, Finland.
-
 **Lotta Ylä-Mella**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Ilmo Kukkonen
+
+`2017-2019`
+**Nelli Metiäinen**, *Master's Program in Geography, University of Helsinki*, Helsinki, Finland.
 
 `2014-2016`
 **Niclas Blomqvist**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
@@ -467,6 +472,11 @@ Now: Ph.D. student, Oregon State University
 **Kyle Landry**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
 
 ### Undergraduate research
+`2019-present`
+**Christoph Brendel**, *Institute for Geology, University of Hamburg*, Hamburg, Germany.
+
+**Jugraj Singh**, *Rajiv Gandhi Institute of Petroleum Technology*, Jais, Uttar Pradesh, India.
+
 `2017-present`
 **Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
 
@@ -579,4 +589,4 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 
 
-<br/>Last updated: March 2019<br/><br/>
+<br/>Last updated: May 2019<br/><br/>
