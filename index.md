@@ -61,13 +61,11 @@ FI-00014 University of Helsinki, Finland<br/>
 ### In revision
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Geochemistry, Geophysics, Geosystems*, in revision.
 
-### In press
-
-A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Response of a rheologically stratified lithosphere to subduction of an indenter-shaped plate: Insights into localized exhumation at orogen syntaxes. *Tectonics*, in press.
-
 ### Journals
 
 `2019`
+A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Response of a rheologically stratified lithosphere to subduction of an indenter-shaped plate: Insights into localized exhumation at orogen syntaxes. *Tectonics*. doi: [10.1029/2018TC005455](https://doi.org/10.1029/2018TC005455), 2019.
+
 **D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. *Science Advances*, *5*(4). doi: [10.1126/sciadv.aav3482](https://dx.doi.org/10.1126/sciadv.aav3482), 2019.
 
 `2018`
