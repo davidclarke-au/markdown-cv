@@ -98,11 +98,13 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 
 *Funding includes only amounts over 5000€*
 
-<!-- ### Pending
+### Pending
+**RFP - Extreme Environments: Alpine Climate Change grant program**, *National Geographic Society*, $41 917 [USD]. Sole PI.<br/>
+Drone-based mapping of landslides: Can we detect the influence of climate change on landslide occurrence?
 
+<!--
 **Academy Project**, *Academy of Finland*, Finland, 597 236€. Sole PI.<br/>
 Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
-
 -->
 
 ### Research funding
