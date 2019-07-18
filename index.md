@@ -61,6 +61,9 @@ FI-00014 University of Helsinki, Finland<br/>
 ### In revision
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Geochemistry, Geophysics, Geosystems*, in revision.
 
+### Submitted
+D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. Whipp**, M. Gao, and N. Whynot. Inverted temperature fields: deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan. *Journal of Geophysical Research: Solid Earth*, submitted.
+
 ### Journals
 
 `2019`
