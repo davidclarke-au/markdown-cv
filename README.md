@@ -1,3 +1,7 @@
+---
+permalink: /index.md
+---
+
 markdown-cv
 ===========
 
