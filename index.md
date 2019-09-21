@@ -51,6 +51,9 @@ FI-00014 University of Helsinki, Finland<br/>
 `2003-2008`
 **Research assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
 
+`2001-2003`
+**Laboratory assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
+
 `2000-2002`
 **Tech consultant and Sites rover**, *Campus Computing Sites, University of Michigan*, Ann Arbor, MI, USA.
 
@@ -63,7 +66,7 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ### In review
 
-J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*, submitted.
+J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*, in review.
 
 <!-- 
 D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. Whipp**, M. Gao, and N. Whynot. Inverted temperature fields: deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan. *Journal of Geophysical Research: Solid Earth*, in review.
