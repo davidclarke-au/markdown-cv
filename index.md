@@ -61,16 +61,13 @@ FI-00014 University of Helsinki, Finland<br/>
 
 *Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
 
-<!-- ### Submitted -->
+### Submitted
 
+D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. *Tectonics*, submitted.
 
 ### In review
 
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*, in review.
-
-<!-- 
-D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. Whipp**, M. Gao, and N. Whynot. Inverted temperature fields: deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan. *Journal of Geophysical Research: Solid Earth*, in review.
--->
 
 ### Journals
 
@@ -113,10 +110,8 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 **RFP - Extreme Environments: Alpine Climate Change grant program**, *National Geographic Society*, $41 917 [USD]. Sole PI.<br/>
 Drone-based mapping of landslides: Can we detect the influence of climate change on landslide occurrence?
 
-<!--
-**Academy Project**, *Academy of Finland*, Finland, 597 236€. Sole PI.<br/>
+**Academy Project**, *Academy of Finland*, Finland, 599 648€. Sole PI.<br/>
 Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
--->
 
 ### Research funding
 
