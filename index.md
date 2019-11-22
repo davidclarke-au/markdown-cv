@@ -61,13 +61,11 @@ FI-00014 University of Helsinki, Finland<br/>
 
 *Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
 
-### Submitted
+### In revision
 
-D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. *Tectonics*, submitted.
+D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. *Tectonics*, in revision.
 
-### In review
-
-J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*, in review.
+J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*, in revision.
 
 ### Journals
 
@@ -107,8 +105,6 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 *Funding includes only amounts over 5000€*
 
 ### Pending
-**RFP - Extreme Environments: Alpine Climate Change grant program**, *National Geographic Society*, $41 917 [USD]. Sole PI.<br/>
-Drone-based mapping of landslides: Can we detect the influence of climate change on landslide occurrence?
 
 **Academy Project**, *Academy of Finland*, Finland, 599 648€. Sole PI.<br/>
 Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
@@ -480,13 +476,14 @@ Now: Ph.D. student, Oregon State University
 **Kyle Landry**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
 
 ### Undergraduate research
-`2019-present`
-**Christoph Brendel**, *Institute for Geology, University of Hamburg*, Hamburg, Germany.
-
-**Jugraj Singh**, *Rajiv Gandhi Institute of Petroleum Technology*, Jais, Uttar Pradesh, India.
 
 `2017-present`
 **Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
+
+`2019`
+**Christoph Brendel**, *Institute for Geology, University of Hamburg*, Hamburg, Germany.
+
+**Jugraj Singh**, *Rajiv Gandhi Institute of Petroleum Technology*, Jais, Uttar Pradesh, India.
 
 `2018`
 **Marta Girbau**, *Department of Geology, Universitat Autònoma de Barcelona*, Barcelona, Spain.
@@ -597,4 +594,4 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 
 
-<br/>Last updated: May 2019<br/><br/>
+<br/>Last updated: November 2019<br/><br/>
