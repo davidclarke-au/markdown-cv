@@ -476,13 +476,14 @@ Now: Ph.D. student, Oregon State University
 **Kyle Landry**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
 
 ### Undergraduate research
-`2019-present`
-**Christoph Brendel**, *Institute for Geology, University of Hamburg*, Hamburg, Germany.
-
-**Jugraj Singh**, *Rajiv Gandhi Institute of Petroleum Technology*, Jais, Uttar Pradesh, India.
 
 `2017-present`
 **Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
+
+`2019`
+**Christoph Brendel**, *Institute for Geology, University of Hamburg*, Hamburg, Germany.
+
+**Jugraj Singh**, *Rajiv Gandhi Institute of Petroleum Technology*, Jais, Uttar Pradesh, India.
 
 `2018`
 **Marta Girbau**, *Department of Geology, Universitat Autònoma de Barcelona*, Barcelona, Spain.
@@ -593,4 +594,4 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 
 
-<br/>Last updated: May 2019<br/><br/>
+<br/>Last updated: November 2019<br/><br/>
