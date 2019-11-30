@@ -419,6 +419,10 @@ Co-taught with Lars Kaislaniemi
 
 ### Doctoral students
 
+`2019-present`
+**Tuija Luhta**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Timo Tiira
+
 `2017-present`
 **Matthias Nettesheim**, *Department of Geosciences, University of Tübingen*, Tübingen, Germany.<br/>
 Co-supervised with Todd Ehlers
@@ -447,6 +451,9 @@ Now: Geologist, Pöyry Finland Oy
 
 ### Bachelors theses
 
+<!-- `2019-present`
+**Christoph Brendel**, *Institute for Geology, University of Hamburg*, Hamburg, Germany. -->
+
 `2016–2018`
 **Lotta Ylä-Mella**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
 
@@ -460,6 +467,9 @@ Co-supervised with Jorina Schütt
 **Mehrnoosh Ghadimi**, *Department of Physical Geography, University of Tehran*, Tehran, Iran.
 
 ### Supervisory committee
+
+`2019-present`
+**Suoya Fan**, *Doctoral student, Dept. of Earth and Atmospheric Sciences, University of Houston*, Houston, TX, USA.
 
 `2018`
 **Rémi Vachon**, *Doctoral student, Dept. of Earth Sciences, Uppsala University*, Uppsala, Sweden.
