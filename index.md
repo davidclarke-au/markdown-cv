@@ -61,11 +61,13 @@ FI-00014 University of Helsinki, Finland<br/>
 
 *Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
 
+### In review
+
+J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*, in review.
+
 ### In revision
 
 D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. *Tectonics*, in revision.
-
-J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*, in revision.
 
 ### Journals
 
@@ -223,6 +225,8 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 *Past 3 years. Asterisks indicate student lead authors.*
 
 `2019`
+J. Singh\*, R. S. Kumar, and **D. M. Whipp**. 1-D Numerical Model for Heat Transfer in Crust & Predicting Thermochronometer Age for Sedimentary Basin Subsidence & Uplift Rates for Hydrocarbon Exploration. Young Scientists Conference, India International Science Festival 2019, Kolkata, India, 5-8 November 2019.
+
 **D. M. Whipp**, P. Uotila, I. Kukkonen, E. Koivisto, T. Luhta. New geophysics study programs at the University of Helsinki. *XXIX Geophysics Days. Programme and Extended Abstracts, Rovaniemi, Finland, March 21–22, 2019*, Geophysical Society of Finland, 2019.
 
 `2018`
@@ -234,6 +238,7 @@ M. Nettesheim\*, T. A. Ehlers and **D. M. Whipp**. Effects of subducting plate g
 
 **D. Whipp**, H. Tenkanen, and V. Heikinheimo. Geo-Python: An open online introduction to programming in Python for geoscientists. *Geophysical Research Abstracts*, 20, EGU2018-15204, 2018.
 
+<!--
 `2017`
 L. Kaislaniemi and **D. M. Whipp**. What controls deformation in a bent three-dimensional orogen? An example from the Bolivian Andes. Abstract T23D-0649 presented at 2017 Fall Meeting, AGU, San Francisco, Calif., USA, 11–15 Dec, 2017.
 
@@ -249,7 +254,6 @@ J. Schütt\* and **D. M. Whipp**. 3D dynamics of crustal deformation driven by 
 
 **D. M. Whipp** and C. Beaumont. Orogen-parallel mass transport along the arcuate Himalaya into Nanga Parbat and the western Himalayan syntaxis. *Geophysical Research Abstracts*, 19, EGU2017-15505, 2017 (**invited**).
 
-<!--
 `2016`
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Interpreting records of tectonic and erosional processes using detrital thermochronology: An example from the Bhutan Himalaya. Abstract T42B-05 presented at 2016 Fall Meeting, AGU, San Francisco, Calif., USA, 12–16 Dec, 2016 (**invited**).
 
@@ -561,6 +565,9 @@ Did not attend/judge in 2015
 **Graduate Student Mentor**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, Michigan, USA.
 
 ## Community outreach
+`2020`
+**Guest lecture**, *Kumpula Campus, University of Helsinki*, Finland.<br/>
+Introduction to the geodynamics of the Himalayan orogen for visiting high school students from the Germal School Helsinki
 
 `2015`
 **Guest lecture**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.<br/>
@@ -604,4 +611,4 @@ Residence: Finland (Permanent resident)
 Family: Married, two children
 
 
-<br/>Last updated: November 2019<br/><br/>
+<br/>Last updated: January 2020<br/><br/>
