@@ -563,6 +563,9 @@ Did not attend/judge in 2015
 **Graduate Student Mentor**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, Michigan, USA.
 
 ## Community outreach
+`2020`
+**Guest lecture**, *Kumpula Campus, University of Helsinki*, Finland.<br/>
+Introduction to the geodynamics of the Himalayan orogen for visiting high school students from the Germal School Helsinki
 
 `2015`
 **Guest lecture**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.<br/>
