@@ -65,9 +65,9 @@ FI-00014 University of Helsinki, Finland<br/>
 
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*, in review.
 
-### In revision
+### In press
 
-D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. *Tectonics*, in revision.
+D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. *Tectonics*, in press.
 
 ### Journals
 
@@ -610,5 +610,4 @@ Residence: Finland (Permanent resident)
 
 Family: Married, two children
 
-
-<br/>Last updated: January 2020<br/><br/>
+<br/>Last updated: February 2020<br/><br/>
