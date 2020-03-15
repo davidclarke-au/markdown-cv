@@ -61,17 +61,21 @@ FI-00014 University of Helsinki, Finland<br/>
 
 *Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
 
-### Books - In progress
+### Books, in progress
 
 H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press. In progress, online at [https://pythongis.org/](https://pythongis.org/).
 
-### Journal articles - In press
+<!--
+### Journal articles, in preparation
+-->
+
+### Journal articles, in press
 
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*, in press.
 
 D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. *Tectonics*, in press.
 
-### Journal articles - Published
+### Journal articles, published
 
 `2019`
 A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Response of a rheologically stratified lithosphere to subduction of an indenter-shaped plate: Insights into localized exhumation at orogen syntaxes. *Tectonics*. doi: [10.1029/2018TC005455](https://doi.org/10.1029/2018TC005455), 2019.
@@ -229,6 +233,14 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 
 *Past 3 years. Asterisks indicate student lead authors.*
 
+<!--
+`2020`
+EGU
+Fringe
+Jugraj?
+Aleksi
+-->
+
 `2019`
 J. Singh\*, R. S. Kumar, and **D. M. Whipp**. 1-D Numerical Model for Heat Transfer in Crust & Predicting Thermochronometer Age for Sedimentary Basin Subsidence & Uplift Rates for Hydrocarbon Exploration. Young Scientists Conference, India International Science Festival 2019, Kolkata, India, 5-8 November 2019.
 
@@ -370,7 +382,7 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 - \- Current Topics in Global Geophysics Research
-- \- Geo-Python (with Henrikki Tenkanen) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
+- \- Geo-Python (with Henrikki Tenkanen and Vuokko Heikinheimo) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://geo-python.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Geo-Python"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A/playlists"><i class="fab fa-youtube"></i></a>
 - \- Geodynamics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCsSTyHHQVvnGdnKbidSj94A/playlists"><i class="fab fa-youtube"></i></a>
 - \- Introduction to Lithospheric Geodynamic Modelling (with Lars Kaislaniemi) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introgm.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroGM"><i class="fab fa-github"></i></a>
 - \- Introduction to Quantitative Geology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://introqg.github.io"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/IntroQG"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UClNYqKkR-lRWyn7jes0Khcw/videos"><i class="fab fa-youtube"></i></a>
@@ -379,13 +391,13 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 `2018`
 *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
-- \- Conducting scientific research &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
+- \- Conducting scientific research (with Tapani Rämö)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wiki.helsinki.fi/x/9kQ6Dw"><i class="fas fa-home"></i></a>
 
 ### Short courses
 
 `2017`
 **Low-temperature thermochronology**, *GeoDoc short course, University of Helsinki*, Helsinki, Finland. <a href="https://thermochron.github.io"><i class="fas fa-home"></i></a> <a href="https://www.youtube.com/channel/UCNL_O8rOUsIRRzhvqh8qgjg"><i class="fab fa-youtube"></i></a><br/>
-Co-taught with Ilmo Kukkonen and invited lecturers Cécile Gautheron, Christoph Glotzbach, and Clare Warren.
+Co-taught with Ilmo Kukkonen and invited lecturers Cécile Gautheron, Christoph Glotzbach, and Clare Warren
 
 `2016`
 **Introduction to lithospheric geodynamic modelling**, *Nordic Geological Winter Meeting*, Helsinki, Finland. <a href="https://github.com/HUGG/NGWM2016-modelling-course"><i class="fas fa-home"></i></a><br/>
@@ -522,6 +534,12 @@ Co-supervised with Todd Ehlers
 Co-supervised with Todd Ehlers
 
 ## Professional service
+
+`2020`
+**Research proposal review panel member**, *German Science Foundation*, Berlin, Germany.
+
+`2019-present`
+**Preparatory committee member**, *AdriaArray project*.
 
 `2016-2018`
 **Judge**, *Outstanding Student Poster and PICO Award, European Geosciences Union General Assembly*, Vienna, Austria.
