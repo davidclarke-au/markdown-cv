@@ -61,21 +61,17 @@ FI-00014 University of Helsinki, Finland<br/>
 
 *Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). Asterisks indicate student lead authors.*
 
-### Books
-
-#### In progress
+### Books - In progress
 
 H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press. In progress, online at [https://pythongis.org/](https://pythongis.org/).
 
-### Journal articles
-
-#### In press
+### Journal articles - In press
 
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*, in press.
 
 D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. *Tectonics*, in press.
 
-#### Published
+### Journal articles - Published
 
 `2019`
 A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Response of a rheologically stratified lithosphere to subduction of an indenter-shaped plate: Insights into localized exhumation at orogen syntaxes. *Tectonics*. doi: [10.1029/2018TC005455](https://doi.org/10.1029/2018TC005455), 2019.
@@ -619,4 +615,4 @@ Residence: Finland (Permanent resident)
 
 Family: Married, two children
 
-<br/>Last updated: February 2020<br/><br/>
+<br/>Last updated: March 2020<br/><br/>
