@@ -476,6 +476,9 @@ Now: Geologist, Pöyry Finland Oy
 <!-- `2019-present`
 **Christoph Brendel**, *Institute for Geology, University of Hamburg*, Hamburg, Germany. -->
 
+`2018-present`
+**Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
+
 `2016–2018`
 **Lotta Ylä-Mella**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
 
@@ -509,7 +512,7 @@ Now: Ph.D. student, Oregon State University
 
 ### Undergraduate research
 
-`2017-present`
+`2017-2019`
 **Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
 
 `2019`
