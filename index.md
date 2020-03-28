@@ -540,7 +540,7 @@ Co-supervised with Todd Ehlers
 ## Professional service
 
 `2020`
-**Research proposal review panel member**, *German Science Foundation*, Berlin, Germany.
+**Review panel member**, *German Research Foundation Priority Programs (SPP 2017: Mountain Building Process in Four Dimensions)*, Berlin, Germany.
 
 `2019-present`
 **Preparatory committee member**, *AdriaArray project*.
@@ -560,7 +560,7 @@ Did not attend/judge in 2015
 
 **Journals**: *Basin Research*, *Chemical Geology*, *Earth and Planetary Science Letters*, *Earth Surface Processes and Landforms*, *G-cubed (Geochemistry, Geophysics, Geosystems)*, *Geological Society of America Bulletin*, *Geology*, *Geophysica*, *Journal of Geology*, *Journal of Geophysical Research - Earth Surface*, *Journal of Geophysical Research - Solid Earth*, *Lithosphere*, *Nature Communications*, *Nature Geoscience*, *Science*, *Tectonics*, *Tectonophysics*
 
-**Research project proposals**: German Science Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
+**Research project proposals**: German Research Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
 
 ## University service
 
