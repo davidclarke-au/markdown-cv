@@ -540,7 +540,7 @@ Co-supervised with Todd Ehlers
 ## Professional service
 
 `2020`
-**Research proposal review panel member**, *German Science Foundation*, Berlin, Germany.
+**Review panel member**, *German Science Foundation Priority Programs (SPP 2017: Mountain Building Process in Four Dimensions)*, Berlin, Germany.
 
 `2019-present`
 **Preparatory committee member**, *AdriaArray project*.
