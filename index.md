@@ -451,6 +451,9 @@ Co-supervised with Todd Ehlers
 
 ### Masters students
 
+`2020-present`
+**Ida-Maria Hanski**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
+
 `2019-present`
 **Yijun Wang**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
 
