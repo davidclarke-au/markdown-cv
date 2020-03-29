@@ -156,7 +156,7 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 **Teacher of the year**, *Vasara Ry (Geology student organization), University of Helsinki*, Finland.
 
 `2014`
-**Exceptional Reviewer for journal** *Lithosphere*, *Geological Society of America*.
+**Exceptional Reviewer**, *Lithosphere*, *Geological Society of America*.
 
 `2007`
 **Outstanding Graduate Student Instructor Award**, *Rackham Graduate School, University of Michigan*, Ann Arbor, MI, USA.
