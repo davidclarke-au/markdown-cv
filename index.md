@@ -71,6 +71,10 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 
 ### Journal articles
 
+<!--
+**D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **in preparation**.
+-->
+
 `2020`
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*. doi: [10.1029/2019TC005886](https://doi.org/10.1029/2019TC005886), 2020.
 
@@ -239,6 +243,11 @@ Fringe
 Jugraj?
 Aleksi
 -->
+
+`2020`
+**D. M. Whipp** and L. Kaislaniemi. Lithological and erosional controls on orogen width in the Bolivian Andes. Abstract EGU2020-20549, European Geosciences Union General Assembly, 4-8 May 2020. doi: 10.5194/egusphere-egu2020-20549.
+
+A. Rantanen\*, **D. M. Whipp**, J. S. Heinonen, M. P\"{u}tz, and L. Kaislaniemi. Influence of pulsed magmatic activity, latent heat, and partial melting on the strength of the continental crust. Geological Society of America Abstracts with Programs, Vol. 52, No. 4, ISSN 0016-7592. doi: 10.1130/abs/2020CD-347308. (Meeting cancelled due to COVID-19).
 
 `2019`
 J. Singh\*, R. S. Kumar, and **D. M. Whipp**. 1-D Numerical Model for Heat Transfer in Crust & Predicting Thermochronometer Age for Sedimentary Basin Subsidence & Uplift Rates for Hydrocarbon Exploration. Young Scientists Conference, India International Science Festival 2019, Kolkata, India, 5-8 November 2019.
