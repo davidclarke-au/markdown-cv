@@ -71,9 +71,9 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 
 ### Journal articles
 
-<!--
-**D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **in preparation**.
--->
+**D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
+
+M. Ghadimi, A. Hooper, and **D. M. Whipp**. Assessment of displacement of the Taleqan Dam body and comparison with geodetic data using the DInSAR method. **In preparation**.
 
 `2020`
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*. doi: [10.1029/2019TC005886](https://doi.org/10.1029/2019TC005886), 2020.
