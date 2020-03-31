@@ -115,7 +115,7 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 
 *Funding includes only amounts over 5000€*
 
-### Pending
+### Under review
 
 **Academy Project**, *Academy of Finland*, Finland, 599 648€. Sole PI.<br/>
 Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
@@ -127,7 +127,7 @@ Extracting the Record of mountain Erosion processes COntained in River Detritus 
 What controls deformation in a ‘bent’ 3D orogen? The effects of spatially variable rock strength, erosion and mass transport on the tectonics of the Bolivian Andes
 
 `2014–2017`
-**Three-Year Research Project**, *University of Helsinki*, Helsinki, Finland, 145 000€. Sole PI.<br/>
+**Three-Year Research Project**, *University of Helsinki*, Helsinki, Finland,<br/> 145 000€. Sole PI.<br/>
 What controls strain partitioning at obliquely convergent ocean-continent margins? 3D dynamics of crustal deformation along the western Andean margin
 
 `2010-2012`
@@ -157,7 +157,7 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 ## Awards and honors
 
 `2020`
-**Teacher of the year**, *Vasara Ry (Geology student organization), University of Helsinki*, Finland.
+**Teacher of the Year**, *Vasara Ry (Geology student organization), University of Helsinki*, Finland.
 
 `2014`
 **Exceptional Reviewer**, *Lithosphere*, *Geological Society of America*.
@@ -512,7 +512,7 @@ Now: Ph.D. student, Oregon State University
 `2011–2014`
 **Kyle Landry**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
 
-### Undergraduate research
+### Undergraduate interns
 
 `2017-2019`
 **Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
@@ -610,14 +610,6 @@ Presentation on mountain systems to the audience of undergraduate students prese
 **Guest lecture**, *Melbourne High School*, Melbourne, FL, USA.<br/>
 Introduction to the geology and culture of Nepal related to reading of Jon Krakauer’s *Into Thin Air* for eleventh grade English students
 
-## Languages
-
-English: Native
-
-Finnish: CEFR level A1.3
-
-French: Basic knowledge
-
 ## Memberships
 
 `2014-present`
@@ -628,6 +620,12 @@ Geological Society of America
 
 `2003-present`
 American Geophysical Union
+
+## Languages
+
+Native: English
+
+Basic: Finnish, French, German
 
 ## Personal
 
