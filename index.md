@@ -539,6 +539,20 @@ Co-supervised with Todd Ehlers
 **Nick Olds**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.<br/>
 Co-supervised with Todd Ehlers
 
+## Professional training
+
+`2020`
+**Learning in Higher Education (UP1)**, *Centre for University Teaching and Learning, University of Helsinki*, Helsinki, Finland.<br/>
+Five credit introductory course for university pedagogy.
+
+`2019`
+**Unilead leadership program**, *Faculty of Science, University of Helsinki*, Helsinki, Finland.<br/>
+Leadership program organized by the Faculty of Science for the University of Helsinki supervisors to support them in their managerial duties and develop their leadership skills.
+
+`2007`
+**Observing classrooms**, *Center for Research on Learning and Teaching, University of Michigan*, Ann Arbor, MI, USA.<br/>
+A short course on how to conduct and share classroom observations.
+
 ## Professional service
 
 `2020`
