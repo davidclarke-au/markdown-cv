@@ -234,7 +234,7 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 
 ### Presentations
 
-*Past 3 years. Asterisks indicate student lead authors.*
+*Past 4 years. Asterisks indicate student lead authors.*
 
 `2020`
 **D. M. Whipp** and L. Kaislaniemi. Lithological and erosional controls on orogen width in the Bolivian Andes. Abstract EGU2020-20549, European Geosciences Union General Assembly, 4-8 May 2020. doi: [10.5194/egusphere-egu2020-20549](https://dx.doi.org/10.5194/egusphere-egu2020-20549).
@@ -255,7 +255,6 @@ M. Nettesheim\*, T. A. Ehlers and **D. M. Whipp**. Effects of subducting plate g
 
 **D. Whipp**, H. Tenkanen, and V. Heikinheimo. Geo-Python: An open online introduction to programming in Python for geoscientists. *Geophysical Research Abstracts*, 20, EGU2018-15204, 2018.
 
-<!--
 `2017`
 L. Kaislaniemi and **D. M. Whipp**. What controls deformation in a bent three-dimensional orogen? An example from the Bolivian Andes. Abstract T23D-0649 presented at 2017 Fall Meeting, AGU, San Francisco, Calif., USA, 11–15 Dec, 2017.
 
@@ -270,7 +269,7 @@ M. Nettesheim\*, T. Ehlers, and **D. M. Whipp**. Subduction and Slab Advance at 
 J. Schütt\* and **D. M. Whipp**. 3D dynamics of crustal deformation driven by oblique subduction: Northern and Central Andes. *Geophysical Research Abstracts*, 19, EGU2017- 11940, 2017.
 
 **D. M. Whipp** and C. Beaumont. Orogen-parallel mass transport along the arcuate Himalaya into Nanga Parbat and the western Himalayan syntaxis. *Geophysical Research Abstracts*, 19, EGU2017-15505, 2017 (**invited**).
-
+<!--
 `2016`
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Interpreting records of tectonic and erosional processes using detrital thermochronology: An example from the Bhutan Himalaya. Abstract T42B-05 presented at 2016 Fall Meeting, AGU, San Francisco, Calif., USA, 12–16 Dec, 2016 (**invited**).
 
@@ -550,7 +549,7 @@ Five credit introductory course for university pedagogy.
 Leadership program organized by the Faculty of Science for the University of Helsinki supervisors to support them in their managerial duties and develop their leadership skills.
 
 `2007`
-**Observing classrooms**, *Center for Research on Learning and Teaching, University of Michigan*, Ann Arbor, MI, USA.<br/>
+**Classroom observation**, *Center for Research on Learning and Teaching, University of Michigan*, Ann Arbor, MI, USA.<br/>
 A short course on how to conduct and share classroom observations.
 
 ## Professional service
