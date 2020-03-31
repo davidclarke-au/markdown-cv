@@ -269,6 +269,7 @@ M. Nettesheim\*, T. Ehlers, and **D. M. Whipp**. Subduction and Slab Advance at 
 J. Schütt\* and **D. M. Whipp**. 3D dynamics of crustal deformation driven by oblique subduction: Northern and Central Andes. *Geophysical Research Abstracts*, 19, EGU2017- 11940, 2017.
 
 **D. M. Whipp** and C. Beaumont. Orogen-parallel mass transport along the arcuate Himalaya into Nanga Parbat and the western Himalayan syntaxis. *Geophysical Research Abstracts*, 19, EGU2017-15505, 2017 (**invited**).
+
 <!--
 `2016`
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Interpreting records of tectonic and erosional processes using detrital thermochronology: An example from the Bhutan Himalaya. Abstract T42B-05 presented at 2016 Fall Meeting, AGU, San Francisco, Calif., USA, 12–16 Dec, 2016 (**invited**).
