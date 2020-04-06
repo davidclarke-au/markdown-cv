@@ -495,6 +495,9 @@ Co-supervised with Jorina Schütt
 
 ### Supervisory committee
 
+`2020-present`
+**Riikka Fred**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+
 `2019-present`
 **Suoya Fan**, *Doctoral student, Dept. of Earth and Atmospheric Sciences, University of Houston*, Houston, TX, USA.
 
