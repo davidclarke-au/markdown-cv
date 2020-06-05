@@ -115,10 +115,12 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 
 *Funding includes only amounts over 5000€*
 
+<!--
 ### Under review
 
 **Academy Project**, *Academy of Finland*, Finland, 599 648€. Sole PI.<br/>
 Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
+-->
 
 ### Research funding
 
@@ -462,7 +464,7 @@ Co-supervised with Todd Ehlers
 `2018-present`
 **Aleksi Rantanen**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
 
-`2017-present`
+`2017-2020`
 **Lotta Ylä-Mella**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
 Co-supervised with Ilmo Kukkonen
 
