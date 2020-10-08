@@ -30,6 +30,9 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ## Experience
 
+`2021-`
+**Professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
 `2017-present`
 **Associate professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
@@ -73,7 +76,7 @@ H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Ge
 
 **D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
 
-M. Ghadimi, A. Hooper, and **D. M. Whipp**. Assessment of displacement of the Taleqan Dam body and comparison with geodetic data using the DInSAR method. **In preparation**.
+M. Ghadimi, A. Hooper, A. Hojati Malekshah, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and ground observations. *Engineering Geology*, **submitted**.
 
 `2020`
 J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*. doi: [10.1029/2019TC005886](https://doi.org/10.1029/2019TC005886), 2020.
@@ -239,6 +242,8 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 *Past 4 years. Asterisks indicate student lead authors.*
 
 `2020`
+A. Rantanen\*, **D. M. Whipp**, J. S. Heinonen, M. P\"{u}tz, and L. Kaislaniemi. Influence of pulsed magmatic activity, latent heat, and partial melting on the strength of the continental crust. Geological Society of America Abstracts with Programs. Vol 52, No. 6, 2020. doi: 10.1130/abs/2020AM-358401.
+
 **D. M. Whipp** and L. Kaislaniemi. Lithological and erosional controls on orogen width in the Bolivian Andes. Abstract EGU2020-20549, European Geosciences Union General Assembly, 4-8 May 2020. doi: [10.5194/egusphere-egu2020-20549](https://dx.doi.org/10.5194/egusphere-egu2020-20549).
 
 A. Rantanen\*, **D. M. Whipp**, J. S. Heinonen, M. P\"{u}tz, and L. Kaislaniemi. Influence of pulsed magmatic activity, latent heat, and partial melting on the strength of the continental crust. Geological Society of America Abstracts with Programs, Vol. 52, No. 4, ISSN 0016-7592. (Meeting cancelled due to COVID-19).
@@ -588,6 +593,8 @@ Did not attend/judge in 2015
 **Research project proposals**: German Research Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
 
 ## University service
+`2020-present`
+**Deputy director**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
 
 `2018-present`
 **Board member**, *Bachelor’s Programme in Science (in English)*, University of Helsinki, Helsinki, Finland.
@@ -660,4 +667,4 @@ Residence: Finland (Permanent resident)
 
 Family: Married, two children
 
-<br/>Last updated: March 2020<br/><br/>
+<br/>Last updated: October 2020<br/><br/>
