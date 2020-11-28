@@ -446,6 +446,11 @@ Co-taught with Lars Kaislaniemi
 **Lars Kaislaniemi**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 ### Doctoral students
+`2021-present`
+**Miisa Häkkinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
+`2020-present`
+**Veikko Peltonen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 `2019-present`
 **Tuija Luhta**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.<br/>
@@ -506,6 +511,8 @@ Co-supervised with Jorina Schütt
 **Riikka Fred**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
 **Toni Luoto**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
+
+**Tsarsitalidou, Christina**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
 **Ville Virtanen**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
 
