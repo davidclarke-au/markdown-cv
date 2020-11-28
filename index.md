@@ -447,7 +447,7 @@ Co-taught with Lars Kaislaniemi
 
 ### Doctoral students
 `2021-present`
-**Miisa H\"{a}kkinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+**Miisa Häkkinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 `2020-present`
 **Veikko Peltonen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
