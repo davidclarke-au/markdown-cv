@@ -446,6 +446,11 @@ Co-taught with Lars Kaislaniemi
 **Lars Kaislaniemi**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 ### Doctoral students
+`2021-present`
+**Miisa H\"{a}kkinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+
+`2020-present`
+**Veikko Peltonen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 `2019-present`
 **Tuija Luhta**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.<br/>
