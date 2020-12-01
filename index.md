@@ -118,9 +118,12 @@ K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, e
 
 *Funding includes only amounts over 5000€*
 
-<!--
 ### Under review
 
+**Project funding**, *Renlund foundation*, Finland, 54 500€. Sole PI.<br/>
+Building quantitative links between geodynamics and metamorphism in the Paleoproterozoic: Insight into emplacement of orogenic gold deposits
+
+<!--
 **Academy Project**, *Academy of Finland*, Finland, 599 648€. Sole PI.<br/>
 Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
 -->
