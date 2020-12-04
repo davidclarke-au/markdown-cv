@@ -450,10 +450,12 @@ Co-taught with Lars Kaislaniemi
 
 ### Doctoral students
 `2021-present`
-**Miisa Häkkinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+**Miisa Häkkinen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Jon Pownall and Pentti Hölttä (GTK)
 
 `2020-present`
-**Veikko Peltonen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+**Veikko Peltonen**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Seija Kultti
 
 `2019-present`
 **Tuija Luhta**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.<br/>
@@ -469,13 +471,14 @@ Co-supervised with Todd Ehlers
 ### Masters students
 
 `2020-present`
-**Ida-Maria Hanski**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
-
-`2019-present`
-**Yijun Wang**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
+**Ida-Maria Hanski**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
+Co-supervised with Tuija Luhta and Kati Oinonen
 
 `2018-present`
 **Aleksi Rantanen**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
+
+`2019-2020`
+**Yijun Wang**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.
 
 `2017-2020`
 **Lotta Ylä-Mella**, *Master's Program in Geology and Geophysics, University of Helsinki*, Helsinki, Finland.<br/>
