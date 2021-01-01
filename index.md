@@ -3,7 +3,7 @@ layout: cv
 title: David Whipp's CV
 ---
 # David Whipp
-Associate professor, University of Helsinki
+Professor, University of Helsinki
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
 P.O. Box 68 (Pietari Kalmin katu 5)<br/>
@@ -33,7 +33,7 @@ FI-00014 University of Helsinki, Finland<br/>
 `2021-`
 **Professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
-`2017-present`
+`2017-2020`
 **Associate professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 `2013-2023`
