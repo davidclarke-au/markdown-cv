@@ -33,11 +33,11 @@ FI-00014 University of Helsinki, Finland<br/>
 `2021-`
 **Professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
-`2017-2020`
-**Associate professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
 `2013-2023`
 **Adjunct of the Faculty of Graduate Studies**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
+
+`2017-2020`
+**Associate professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 `2013-2016`
 **Assistant professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
