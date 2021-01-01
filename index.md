@@ -30,7 +30,7 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ## Experience
 
-`2021-`
+`2021-present`
 **Professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 `2013-2023`
