@@ -611,6 +611,9 @@ Did not attend/judge in 2015
 **Research project proposals**: German Research Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), UK Natural Environment Research Council, US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
 
 ## University service
+`2021-present`
+**Vice director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
+
 `2020-present`
 **Deputy director**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
 
@@ -623,7 +626,7 @@ Did not attend/judge in 2015
 
 **Member**, *Department of Geosciences and Geography communications group, University of Helsinki*, Helsinki, Finland.
 
-`2017-present`
+`2017-2020`
 **Board member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
 
 `2013-present`
