@@ -117,6 +117,7 @@ PreSales engagements for CyberCX portfolio offerings<br>
 
 I was promoted into this global role to ensure PageUp’s IT Assets are secured by best of breed technology, practices and processes whilst maintaining compliance with relevant contractual and industry obligations in order to accelerate the growth of PageUp.
 
+<br>
 **ISO Compliance & Security Officer**
 
 My role at PageUp at a high level boils down to maintaining and constantly improving PageUp’s Information Security Management System (ISMS) ensuring PageUp People’s security practices meet the needs of its clients and industry standards.<br>
