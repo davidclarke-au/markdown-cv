@@ -36,7 +36,9 @@ I honestly think you should get a good picture of who I am, what I do and what m
 
 This CV is ordered deliberately. *In my opinion, in order of importance.* 
 
-Starting with what I work on day to day and am responsible for, my skillset and what I'm passionate about. 
+Starting with me, an informal and honest introduction. <i class="far fa-grin-tongue-wink"></i>
+
+Followed by what I work on day to day and am responsible for, my skillset and what I'm passionate about. 
 
 Followed by my work history. 
 
