@@ -183,10 +183,6 @@ The purpose of the role is to provide technical expertise and assistance in proj
 <br>
 
 
-## References <i class="fas fa-user-friends"></i>
-
-**Avaliable on request only..**
-
 ## Awards and honors
 
 `2020`
@@ -283,4 +279,8 @@ Citizenship: Australian Citizen
 
 Family: Married, Dad to one
 
-<br/>Last updated: January 2021<br/><br/>
+## References <i class="fas fa-user-friends"></i>
+
+**Avaliable on request only..**
+
+<br/>*Last updated: January 2021*<br/><br/>
