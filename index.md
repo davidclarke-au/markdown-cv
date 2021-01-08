@@ -13,7 +13,7 @@ Also avalaible fully remotely<br/>
 
 <div id="webaddress">
   <a href="https://david-clarke.id.au"><i class="fas fa-home"></i> david-clarke.id.au</a> <br>
-  <a href="https://www.linkedin.com/in/davidclarkeau/"><i class="fas fa-linkedin"></i> linkedin.com/in/davidclarkeau/</a> <br/>
+  <a href="https://www.linkedin.com/in/davidclarkeau/"><i class="fa fa-linkedin" aria-hidden="true"></i> linkedin.com/in/davidclarkeau/</a> <br/>
   <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
   <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
   <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
