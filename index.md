@@ -27,6 +27,12 @@ Cyber Security Professional / People Leader / Cloud Security Advocate
 
 ## A Little Bit About Me
 
+I **hate** writing CV's, but I understand why it's required.
+
+What I love doing is **TALKING** to people.... So please feel free to get in contact with me and setup a chat.
+
+Anyway, all the boring stuff below... 
+
 ## Education
 
 `2003-2008`
