@@ -108,7 +108,7 @@ Bridge between Service Delivery and Security Operations<br>
 <br>
 CyberSecurity Project Management<br>
 <br>
-PreSales engagements for CyberCX portfolio offerings<br>
+PreSales engagements for Enosys portfolio offerings<br>
 
 `2016 - 2019`
 ### PageUp
