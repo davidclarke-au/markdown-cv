@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: David Clarke's CV
+title: David Clarke
 ---
 # David Clarke
 Cyber Security Professional / People Leader / Cloud Security Advocate
