@@ -49,6 +49,7 @@ Given my previous credits earned in my diploma, I sat a customised course at EXC
 
 `2004-2006`
 **Computer Power Training Institute**, *Diploma of eBusiness Support*, Melbourne, VIC, AUS.
+<br>
 The course provides the comprehensive training needed in today's business world to develop and support electronic business solutions. Completion of the course includes the attainment of two of the industry's highly sought, globally recognised vendor certifications:Microsoft Certified Professional and either a CompTIA i-Net+ or Red Hat Linux Certified Technician certification.
 <br>
 
