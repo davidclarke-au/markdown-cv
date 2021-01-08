@@ -81,9 +81,9 @@ PreSales engagements for CyberCX portfolio offerings<br>
 
 **Senior Service Delivery Manager**
 
-(this role folded into CyberCX in July 2020)
+(this role folded into CyberCX in July 2020)<br>
 <br>
-In my role @ Enosys I am responsible for
+In my role @ Enosys I am responsible for<br>
 <br>
 Service Delivery Management - Manged SIEM, SOC, VMS, MEDR, DFIR<br>
 Service Transition - Project -> BAU<br>
@@ -102,6 +102,33 @@ CyberSecurity Project Management<br>
 <br>
 PreSales engagements for CyberCX portfolio offerings<br>
 
+`2016 - 2019`
+### PageUp
+
+**Head Of Security & Compliance**
+
+I was promoted into this global role to ensure PageUp’s IT Assets are secured by best of breed technology, practices and processes whilst maintaining compliance with relevant contractual and industry obligations in order to accelerate the growth of PageUp.
+
+**ISO Compliance & Security Officer**
+
+My role at PageUp at a high level boils down to maintaining and constantly improving PageUp’s Information Security Management System (ISMS) ensuring PageUp People’s security practices meet the needs of its clients and industry standards.<br>
+<br>
+Key tasks include -
+<br>
+maintenance of ISO 27001 certification<br>
+manage information security risks (identify, assess, document, propose treatments and manage action plans)<br>
+work with other team members to implement a variety of information security controls<br>
+conduct regular checks on the effectiveness of security controls<br>
+arrange regular information security meetings and audits<br>
+document clear and concise procedures and configuration standards to meet policy and audit requirements<br>
+regularly review and update information security policies<br>
+process information security incident reports and any suggestions for information security improvements<br>
+develop information security awareness material and run awareness sessions<br>
+work with other team members to assess the information security risks related to new initiatives and identify appropriate controls<br>
+develop information security responses to tenders and client queries<br>
+monitor security threats and bulletins<br>
+monitor data privacy threats and bulletins<br>
+perform Adhoc duties as assigned<br>
 
 ## Education <i class="fas fa-university"></i>
 
