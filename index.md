@@ -79,6 +79,28 @@ PreSales engagements for CyberCX portfolio offerings<br>
 `2019 - 2020`
 ### Enosys Solutions
 
+**Senior Service Delivery Manager**
+
+(this role folded into CyberCX in July 2020)
+<br>
+In my role @ Enosys I am responsible for
+<br>
+Service Delivery Management - Manged SIEM, SOC, VMS, MEDR, DFIR<br>
+Service Transition - Project -> BAU<br>
+Service Delivery Governance<br>
+Service Level Risk Management<br>
+<br>
+Security Operations Management:<br>
+Lead and Owner of SecOps Process & Procedures<br>
+Lead and Owner of SecOps Governance<br>
+Continual Service Improvement<br>
+Enhancement and Innovation<br>
+Service Activation and Onboarding<br>
+Bridge between Service Delivery and Security Operations<br>
+<br>
+CyberSecurity Project Management<br>
+<br>
+PreSales engagements for CyberCX portfolio offerings<br>
 
 
 ## Education <i class="fas fa-university"></i>
