@@ -117,7 +117,17 @@ PreSales engagements for Enosys portfolio offerings<br>
 
 **Head Of Security & Compliance**
 
-I was promoted into this global role to ensure PageUp’s IT Assets are secured by best of breed technology, practices and processes whilst maintaining compliance with relevant contractual and industry obligations in order to accelerate the growth of PageUp.
+I was promoted into this global role to ensure PageUp’s IT Assets are secured by best of breed technology, practices and processes whilst maintaining compliance with relevant contractual and industry obligations in order to accelerate the growth of PageUp. Growing the team was also an important function in this role.
+
+Create, maintain and operate PageUp’s cyber security strategy leveraging appropriate technology, threat information, training and operational processes in order to reduce the likelihood of business critical security breaches.
+
+Track and communicate technology risk to the business in order to ensure the leadership team are adequately informed to make decisions on resource allocation, budgets and risk mitigation.
+
+Support the growth of the business in all targeted markets by externally promoting PageUp’s security platform USP to clients, prospects and the wider market.  Ensure PageUp gains/maintains appropriate security credentials and certifications to leverage in promotion of USP.
+
+Manage and maintain a security technology budget with appropriate spend to meet the needs of the operation and implementation of the cyber security strategy
+
+Champion and embed a culture of security awareness and practices in order to enable autonomous teams to progress unimpeded whilst ensuring security of outcomes delivered.
 
 <br>
 **ISO Compliance & Security Officer**
