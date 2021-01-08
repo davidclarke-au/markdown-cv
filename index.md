@@ -62,35 +62,7 @@ Anyway, all the boring stuff below...
 
 ## Experience <i class="fas fa-briefcase"></i>
 
-`2021-present`
-**Professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2013-2023`
-**Adjunct of the Faculty of Graduate Studies**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
-
-`2017-2020`
-**Associate professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2013-2016`
-**Assistant professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2009-2012`
-**Postdoctoral fellow**, *Department of Oceanography, Dalhousie University*, Halifax, NS, Canada.
-
-`2008-2009`
-**Postdoctoral fellow**, *Géosciences Rennes, University of Rennes 1*, Rennes, France.
-
-`2007`
-**Geoscientist (intern)**, *ExxonMobil Exploration Company*, Houston, TX, USA.
-
-`2003-2008`
-**Research assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-`2001-2003`
-**Laboratory assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-`2000-2002`
-**Tech consultant and Sites rover**, *Campus Computing Sites, University of Michigan*, Ann Arbor, MI, USA.
+### CyberCX `2020 - Present`
 
 ## Publications
 
