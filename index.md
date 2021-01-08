@@ -183,95 +183,32 @@ The purpose of the role is to provide technical expertise and assistance in proj
 <br>
 
 
-## Awards and honors
+## Awards and honors <i class="fas fa-award"></i>
 
 `2020`
 **Teacher of the Year**, *Vasara Ry (Geology student organization), University of Helsinki*, Finland.
 
-`2014`
-**Exceptional Reviewer**, *Lithosphere*, *Geological Society of America*.
 
-`2007`
-**Outstanding Graduate Student Instructor Award**, *Rackham Graduate School, University of Michigan*, Ann Arbor, MI, USA.
+## Conference activity <i class="fas fa-chalkboard-teacher"></i>
 
-**Outstanding Graduate Student Instructor Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-`2006`
-**Outstanding Student Paper Award**, *Tectonophysics Section*, American Geophysical Union Fall Meeting.
-
-`2003`
-**Camp Davis Field Geologist Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-## Invited talks
+### BSides Melbourne 2019
 
 `2019`
-**University of Turku**, *Department seminar, Department of Geography and Geology*, Turku, Finland.
-
-`2018`
-**16th International Conference on Thermochronology (Thermo 2018)**, *Session 2: Diffusion / annealing kinetics and thermal modelling*, Quedlinburg, Germany.
-
-`2017`
-**University of Lausanne**, *Department seminar, Institute of Earth Sciences*, Lausanne, Switzerland.
-
-**European Geosciences Union General Assembly**, *Session TS7.8: Mountain building processes, from top to bottom: the Zagros-Himalaya-Tibet orogenic system*, Vienna, Austria.
-
-`2016`
-**American Geophysical Union Fall Meeting**, *Session T42B: Sedimentary Basin Records of Convergent Orogenic Systems*, San Francisco, CA, USA.
-
-**University of Potsdam**, *Colloquium talk, Institute of Earth and Environmental Science*, Potsdam, Germany.
-
-`2014`
-**American Geophysical Union Fall Meeting**, *Session EP23G: From High Peaks to Level Plains: Using Thermochronometry to Study the Evolving Geosphere*, San Francisco, CA, USA.
-
-`2013`
-**University of Tübingen**, *Earth System Dynamics Research Group seminar, Department of Geosciences*, Tübingen, Germany.
-
-`2011`
-**Joseph Fourier University**, *Grand séminaire, Institut des Sciences de la Terre*, Grenoble, France.
-
-`2009`
-**Geological Society of America Annual Meeting**, *Session T46: Linking Shallow to Deep Crustal Processes in Arc and Collisional Orogens*, Portland, OR, USA.
-
-**Joseph Fourier University**, *Seminar talk, Laboratoire de géodynamique des chaînes alpines*, Grenoble, France.
-
-`2007`
-**Dalhousie University**, *Department seminar, Department of Earth Sciences*, Halifax, NS, Canada.
-
-## Conference activity
-
-### Organization
-
-`2017`
 **Session chair**, *NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics*, Putten, Netherlands.<br/>
 “Global modelling of early and recent Earth”
 
-`2016`
-**Session co-convener**, *Nordic Geological Winter Meeting*, Helsinki, Finland.<br/>
-“Dynamics and evolution of the lithosphere from Archean to present”<br/>
-“Interactions between climate, erosion and tectonics”
 
-`2014`
-**Steering committee**, *Lithosphere 2014 symposium*, Turku, Finland.
-
-`2013`
-**Session co-chair**, *28th Himalayan Karakorum Tibet Workshop and 6th International Symposium on Tibetan Plateau Joint Conference*, Tübingen, Germany.<br/>
-“Crustal Doming, Exhumation and Lateral Extrusion”
-
-`2010`
-**Session co-convener**, *Geological Society of America Annual Meeting*, Denver, Colorado, USA.<br/>
-“Orogeny: From rigid plates to diffuse lithospheric deformation”, one of several sessions celebrating the 30th anniversary of the Structural Geology and Tectonics Division of the GSA
-
-## Interests
+## Interests <i class="fas fa-campground"></i>
 
 Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-clarke.id.au">   <i class="fab fa-tumblr"></i></a> <br>
 
-## Languages
+## Languages <i class="fas fa-language"></i>
 
 Native: English
 
 Basic: None, yet, hopefully Italian soon :)
 
-## Personal
+## Personal <i class="fas fa-info-circle"></i>
 
 Birth date: I'm likely applying for a Security role, so adding this should fail me instantly. Plus you don't need this information at this stage of the recruitment process anyway.
 
