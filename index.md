@@ -20,7 +20,7 @@ Also avalaible fully remotely**<br/>
   <a href="https://david-clarke-au.medium.com"><i class="fab fa-medium-m"></i> david-clarke-au.medium.com/</a> <br>
   <a href="https://keybase.io/davidclarke_au"><i class="fab fa-keybase"></i> KeyBase - davidclarke_au</a> <br>
   <a href="https://david-clarke.id.au/ct.html"><i class="fas fa-crow"></i> Click me, or maybe not?</a> <br>
-  <a href="https://david-clarke.id.au/ct2.html"><i class="fas fa-coin"></i> Click me, or maybe not?</a> <br>
+  <a href="https://david-clarke.id.au/ct2.html"><i class="fas fa-bullseye"></i> Click me, or maybe not?</a> <br>
 </div>
 
 ## Education
