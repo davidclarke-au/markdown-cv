@@ -139,6 +139,26 @@ monitor security threats and bulletins<br>
 monitor data privacy threats and bulletins<br>
 perform Adhoc duties as assigned<br>
 
+`2012 - 2016`
+### VicSuper
+
+**Analyst IT Security & Operations**
+
+The purpose of the role is to provide technical expertise and assistance in security operations, projects, infrastructure and daily business needs.
+
+There is a high degree of complexity in the role, balancing projects, vendor management, change management, problem management and incident management.
+
+Security Operations
+Project Management/Coordination
+IT Operations administration
+Stakeholder management
+ServiceDesk Support
+SOE/desktop management
+
+**IT Infrastructure Specialist**
+
+The purpose of the role is to provide technical expertise and assistance in projects, infrastructure and daily business needs.
+
 ## Education <i class="fas fa-university"></i>
 
 `2005-2006`
