@@ -9,7 +9,8 @@ Cyber Security Professional / People Leader / Cloud Security Advocate
 <i class="fas fa-globe-asia"></i> Australia<br/>
 <i class="fas fa-laptop-house"></i> **Also avalaible fully remotely**<br/>
 
-<a href="mailto:dave@david-clarke.id.au">dave@david-clarke.id.au</a> - +61 Please reach out to me privately if you require my mobile #
+<i class="fas fa-at"></i><a href="mailto:dave@david-clarke.id.au">dave@david-clarke.id.au</a> <br> 
+<i class="fas fa-mobile-alt"></i>+61 Please reach out to me privately if you require my mobile #
 
 <div id="webaddress">
   <a href="https://david-clarke.id.au"><i class="fas fa-home"></i> david-clarke.id.au</a> <br>
@@ -23,6 +24,8 @@ Cyber Security Professional / People Leader / Cloud Security Advocate
   <a href="https://david-clarke.id.au/ct.html"><i class="fas fa-crow"></i> Click me?</a> -
   <a href="https://david-clarke.id.au/ct2.html"><i class="fas fa-bullseye"></i> Click me?</a>
 </div>
+
+## A Little Bit About Me
 
 ## Education
 
