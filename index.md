@@ -38,6 +38,12 @@ I **hate** writing CV's, but I understand why it's required.
 
 I honestly think you should get a good picture of who I am, what I do and what might be a good future fit for me from the links above. OSINT <i class="far fa-smile-wink"></i>
 
+This CV is ordered deliberately. *In my opinion, in order of preference.* Starting with what I work on day to day and am responsible for, my skillset and what I'm passionate about. 
+
+Followed by my work history. 
+
+Followed by my training and education.
+
 What I love doing is **TALKING** to people.... So please feel free to get in contact with me and setup a chat.
 
 Anyway, all the boring stuff below... 
