@@ -32,7 +32,7 @@ Cyber Security Professional / People Leader / Cloud Security Advocate
   <a href="https://david-clarke.id.au/ct2.html"><i class="fas fa-bullseye"></i> Click me?</a>
 </div>
 
-## A Little Bit About Me
+## A Little Bit About Me <i class="fas fa-route"></i>
 
 I **hate** writing CV's, but I understand why it's required. 
 
@@ -42,7 +42,7 @@ What I love doing is **TALKING** to people.... So please feel free to get in con
 
 Anyway, all the boring stuff below... 
 
-## Education
+## Education <i class="fas fa-university"></i>
 
 `2005-2006`
 **EXCOM Education**, *Customised Course*, Melbourne, VIC, AUS.
