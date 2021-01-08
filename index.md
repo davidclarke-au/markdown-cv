@@ -41,8 +41,10 @@ Anyway, all the boring stuff below...
 
 ## Education
 
-`2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+`2005-2006`
+**EXCOM Education**, *Customised Course*, Melbourne, VIC, AUS.
+<br>
+Given my previous credits earned in my diploma, I sat a customised course at EXCOM Education which consisted of the CompTIA A+ Hardware and Software Course and the Career Builder Course. Once completed I was hired by EXCOM.
 
 `1998-2002`
 **B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
