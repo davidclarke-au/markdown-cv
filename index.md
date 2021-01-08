@@ -60,7 +60,7 @@ Anyway, all the boring stuff below...
 **VCE**, *Sucessfully completed Year 12 and achieved my VCE*, State School FTW.
 <br>
 
-## Experience
+## Experience <i class="fas fa-briefcase"></i>
 
 `2021-present`
 **Professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
