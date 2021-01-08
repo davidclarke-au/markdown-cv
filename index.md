@@ -159,6 +159,11 @@ SOE/desktop management
 
 The purpose of the role is to provide technical expertise and assistance in projects, infrastructure and daily business needs.
 
+`Pre 2012`
+### Previous Work History
+
+**Previous work history before 2012 can be provided on request or visible on my LinkedIn**
+
 ## Education <i class="fas fa-university"></i>
 
 `2005-2006`
