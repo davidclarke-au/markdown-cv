@@ -9,7 +9,7 @@ Melbourne<br/>
 AUSTRALIA<br/>
 Also avalaible fully remotely<br/>
 
-<a href="dave@david-clarke.id.au">dave@david-clarke.id.au</a> - +61 `Please reach out to me privately if you require my mobile #`
+<a href="mailto:dave@david-clarke.id.au">dave@david-clarke.id.au</a> - +61 `Please reach out to me privately if you require my mobile #`
 
 <div id="webaddress">
   <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
