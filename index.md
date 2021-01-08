@@ -62,7 +62,12 @@ Anyway, all the boring stuff below...
 
 ## Experience <i class="fas fa-briefcase"></i>
 
-### CyberCX `2020 - Present`
+`2020 - Present`
+### CyberCX
+
+**SOC**
+
+**SDM**
 
 ## Publications
 
