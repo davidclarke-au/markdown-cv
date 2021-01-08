@@ -12,12 +12,8 @@ Cyber Security Professional / People Leader / Cloud Security Advocate
 <i class="fas fa-globe-asia"></i>  Australia<br/>
 <i class="fas fa-laptop-house"></i>  **Also avalaible fully remotely**<br/>
 
-<br>
-
 <i class="fas fa-at"></i>  <a href="mailto:dave@david-clarke.id.au">dave@david-clarke.id.au</a> <br> 
 <i class="fas fa-mobile-alt"></i>  +61 Please reach out to me privately (email/keybase) if you require my mobile #
-
-<br>
 
 <div id="webaddress">
   <a href="https://david-clarke.id.au"><i class="fas fa-house-user"></i> david-clarke.id.au</a> <br>
