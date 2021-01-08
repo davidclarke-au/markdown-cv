@@ -171,6 +171,7 @@ The purpose of the role is to provide technical expertise and assistance in proj
 `Ongoing`
 
 My **preffered way of learning** is on the job, with smart, driven and passionate people!
+<br>
 
 `2016`
 **AWS Security Fundamentals**
