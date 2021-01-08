@@ -62,12 +62,35 @@ Anyway, all the boring stuff below...
 
 ## Experience <i class="fas fa-briefcase"></i>
 
-`2020 - Present`
+`2019 - Present`
 ### CyberCX
 
-**SOC**
+**SOC Operations Manager - VIC - Managed Security Services**
 
-**SDM**
+In my role as SOC Operations Manager (VIC) MSS I am responsible for overall delivery, performance and continual service improvement of Managed Security Operations Centre (SOC), Security Information and Event Management (SIEM), Vulnerability Management System (VMS), Managed Endpoint Detection & Response (MEDR) and Digital Forensics & Incident Response (DFIR) offerings.
+
+The SOC Operations Manager (VIC) MSS is a key member of the MSS leadership team in the region. The Manager - SOC Operations (VIC) MSS leads the activities and management of the Managed Security Services operations team in the region, positioning CyberCX as Australia’s greatest force of cyber security professionals.
+
+**Senior Service Delivery Manager**
+
+In my role @ CyberCX I am responsible for
+
+•Service Delivery Management - Manged SIEM, SOC, VMS, MEDR, DFIR
+•Service Transition - Project -> BAU
+•Service Delivery Governance
+•Service Level Risk Management
+
+•Security Operations Management:
+•Lead and Owner of SecOps Process & Procedures
+•Lead and Owner of SecOps Governance
+•Continual Service Improvement
+•Enhancement and Innovation
+•Service Activation and Onboarding
+•Bridge between Service Delivery and Security Operations
+
+•CyberSecurity Project Management
+
+•PreSales engagements for CyberCX portfolio offerings
 
 ## Publications
 
