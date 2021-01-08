@@ -76,6 +76,11 @@ CyberSecurity Project Management<br>
 <br>
 PreSales engagements for CyberCX portfolio offerings<br>
 
+`2019 - 2020`
+### Enosys Solutions
+
+
+
 ## Education <i class="fas fa-university"></i>
 
 `2005-2006`
