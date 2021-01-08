@@ -48,6 +48,10 @@ What I love doing is **TALKING** to people.... So please feel free to get in con
 
 Anyway, all the boring stuff below... 
 
+## Skillset / Passions / Areas of Interest
+
+TBA
+
 ## Experience <i class="fas fa-briefcase"></i>
 
 `2019 - Present`
