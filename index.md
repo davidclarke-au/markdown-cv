@@ -6,7 +6,6 @@ title: David Clarke's CV
 Cyber Security Professional / People Leader / Cloud Security Advocate
 
 <br>
-<br>
 
 <i class="fas fa-tram"></i>  **Melbourne**<br/>
 <i class="fas fa-globe-asia"></i>  Australia<br/>
