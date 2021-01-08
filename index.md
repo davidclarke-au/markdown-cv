@@ -167,13 +167,13 @@ The purpose of the role is to provide technical expertise and assistance in proj
 ## Education <i class="fas fa-university"></i>
 
 `2005-2006`
-**EXCOM Education**, *Customised Course*, Melbourne, VIC, AUS.
+**Customised Course**, *EXCOM Education*, Melbourne, VIC, AUS.
 <br>
 *Given my previous credits earned in my diploma, I sat a customised course at EXCOM Education which consisted of the CompTIA A+ Hardware and Software Course and the Career Builder Course. Once completed I was hired by EXCOM.*
 <br>
 
 `2004-2006`
-**Computer Power Training Institute**, *Diploma of eBusiness Support*, Melbourne, VIC, AUS.
+**Diploma of eBusiness Support**, *Computer Power Training Institute*, Melbourne, VIC, AUS.
 <br>
 *The course provides the comprehensive training needed in today's business world to develop and support electronic business solutions. Completion of the course includes the attainment of two of the industry's highly sought, globally recognised vendor certifications:Microsoft Certified Professional and either a CompTIA i-Net+ or Red Hat Linux Certified Technician certification.*
 <br>
