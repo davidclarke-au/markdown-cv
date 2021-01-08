@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: David Clarke's CV
 ---
-# David Whipp
-Professor, University of Helsinki
+# David Clarke
+Cyber Security Professional
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
 P.O. Box 68 (Pietari Kalmin katu 5)<br/>
