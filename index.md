@@ -48,9 +48,13 @@ What I love doing is **TALKING** to people.... So please feel free to get in con
 
 Anyway, all the boring stuff below... 
 
-## Skillset / Passions / Areas of Interest
+## Skillset / Passions / Areas of Interest <i class="far fa-thumbs-up"></i>
 
-TBA
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ## Experience <i class="fas fa-briefcase"></i>
 
