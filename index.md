@@ -166,7 +166,7 @@ The purpose of the role is to provide technical expertise and assistance in proj
 
 **Previous work history before 2012 can be provided on request or visible on my LinkedIn**
 
-## Training
+## Training <i class="fas fa-book-reader"></i>
 
 `Ongoing`
 
