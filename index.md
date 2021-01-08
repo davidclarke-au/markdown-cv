@@ -33,7 +33,9 @@ Cyber Security Professional / People Leader / Cloud Security Advocate
 
 ## A Little Bit About Me
 
-I **hate** writing CV's, but I understand why it's required. I honestly think you should get a good picture of who I am, what I do and what might be a good future fit for me from the links above. OSINT :wink:. 
+I **hate** writing CV's, but I understand why it's required. 
+
+I honestly think you should get a good picture of who I am, what I do and what might be a good future fit for me from the links above. OSINT <i class="far fa-smile-wink"></i>
 
 What I love doing is **TALKING** to people.... So please feel free to get in contact with me and setup a chat.
 
