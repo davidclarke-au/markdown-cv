@@ -75,22 +75,22 @@ The SOC Operations Manager (VIC) MSS is a key member of the MSS leadership team 
 
 In my role @ CyberCX I am responsible for
 
-•Service Delivery Management - Manged SIEM, SOC, VMS, MEDR, DFIR
-•Service Transition - Project -> BAU
-•Service Delivery Governance
-•Service Level Risk Management
+Service Delivery Management - Manged SIEM, SOC, VMS, MEDR, DFIR
+Service Transition - Project -> BAU
+Service Delivery Governance
+Service Level Risk Management
 
-•Security Operations Management:
-•Lead and Owner of SecOps Process & Procedures
-•Lead and Owner of SecOps Governance
-•Continual Service Improvement
-•Enhancement and Innovation
-•Service Activation and Onboarding
-•Bridge between Service Delivery and Security Operations
+Security Operations Management:
+Lead and Owner of SecOps Process & Procedures
+Lead and Owner of SecOps Governance
+Continual Service Improvement
+Enhancement and Innovation
+Service Activation and Onboarding
+Bridge between Service Delivery and Security Operations
 
-•CyberSecurity Project Management
+CyberSecurity Project Management
 
-•PreSales engagements for CyberCX portfolio offerings
+PreSales engagements for CyberCX portfolio offerings
 
 ## Publications
 
