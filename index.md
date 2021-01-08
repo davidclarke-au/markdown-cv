@@ -5,9 +5,9 @@ title: David Clarke's CV
 # David Clarke
 Cyber Security Professional / People Leader / Cloud Security Advocate
 
-Melbourne<br/>
+**Melbourne<br/>
 AUSTRALIA<br/>
-Also avalaible fully remotely<br/>
+Also avalaible fully remotely**<br/>
 
 <a href="mailto:dave@david-clarke.id.au">dave@david-clarke.id.au</a> - +61 Please reach out to me privately if you require my mobile #
 
