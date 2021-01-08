@@ -45,9 +45,13 @@ Anyway, all the boring stuff below...
 **EXCOM Education**, *Customised Course*, Melbourne, VIC, AUS.
 <br>
 Given my previous credits earned in my diploma, I sat a customised course at EXCOM Education which consisted of the CompTIA A+ Hardware and Software Course and the Career Builder Course. Once completed I was hired by EXCOM.
+<br>
 
-`1998-2002`
-**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
+`2004-2006`
+**Computer Power Training Institute**, *Diploma of eBusiness Support*, Melbourne, VIC, AUS.
+
+`2003`
+**VCE**, *Sucessfully completed Year 12 and achieved by VCE*, State School FTW.
 
 ## Experience
 
