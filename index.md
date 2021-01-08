@@ -177,9 +177,9 @@ My **preffered way of learning** is on the job, with smart, driven and passionat
 
 This self-paced course is designed to introduce you to fundamental cloud computing and AWS security concepts including AWS access control and management, governance, logging, and encryption methods. It also covers security-related compliance protocols and risk management strategies, as well as procedures related to auditing your AWS security infrastructure.
 
-**NESSUS Deployment** — *Tenable University*
+**Nessus Deployment** — *Tenable University*
 
-**NESSUS Scanning** — *Tenable University*
+**Nessus Scanning** — *Tenable University*
 
 **Nessus Analysis and Reporting** — *Tenable University*
 
