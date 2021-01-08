@@ -13,11 +13,11 @@ Also avalaible fully remotely**<br/>
 
 <div id="webaddress">
   <a href="https://david-clarke.id.au"><i class="fas fa-home"></i> david-clarke.id.au</a> <br>
-  <a href="https://www.linkedin.com/in/davidclarkeau/"><i class="fa fa-linkedin" aria-hidden="true"></i> linkedin.com/in/davidclarkeau/</a> <br/>
-  <a href="https://github.com/davidclarke-au"><i class="fab fa-github"></i> davidclarke-au</a> - 
-  <a href="https://gitlab.com/davidclarke-au"><i class="fa fa-gitlab" aria-hidden="true"></i> davidclarke-au</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
+  <a href="https://www.linkedin.com/in/davidclarkeau/"><i class="fa fa-linkedin"></i> linkedin.com/in/davidclarkeau/</a> <br/>
+  <a href="https://github.com/davidclarke-au"><i class="fab fa-github"></i> davidclarke-au</a> <br>
+  <a href="https://gitlab.com/davidclarke-au"><i class="fa fa-gitlab"></i> davidclarke-au</a> <br>
+  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> <br>
+  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a> <br>
 </div>
 
 ## Education
