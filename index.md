@@ -21,7 +21,7 @@ Cyber Security Professional / People Leader / Cloud Security Advocate
 
 <div id="webaddress">
   <a href="https://david-clarke.id.au"><i class="fas fa-house-user"></i> david-clarke.id.au</a> <br>
-  <a href="https://blog.david-clarke.id.au"><i class="fab fa-tumblr"></i>&nbsp;  Blog</a> <br>
+  <a href="https://blog.david-clarke.id.au"><i class="fab fa-tumblr"></i>&nbsp;Blog</a> <br>
   <a href="https://www.linkedin.com/in/davidclarkeau/"><i class="fa fa-linkedin"></i> linkedin.com/in/davidclarkeau</a> <br/>
   <a href="https://github.com/davidclarke-au"><i class="fab fa-github"></i> GitHub - davidclarke-au</a> <br>
   <a href="https://gitlab.com/davidclarke-au"><i class="fa fa-gitlab"></i> GitLab - davidclarke-au</a> <br>
@@ -276,7 +276,7 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 
 ## Interests
 
-Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-clarke.id.au"><i class="fab fa-tumblr"></i>&nbsp;  Blog</a> <br>
+Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-clarke.id.au"><i class="fab fa-tumblr"></i></a> <br>
 
 ## Languages
 
