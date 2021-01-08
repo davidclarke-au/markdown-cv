@@ -166,6 +166,30 @@ The purpose of the role is to provide technical expertise and assistance in proj
 
 **Previous work history before 2012 can be provided on request or visible on my LinkedIn**
 
+## Training
+
+`Ongoing`
+
+My **preffered way of learning** is on the job, with smart, driven and passionate people!
+
+`2016`
+**AWS Security Fundamentals**
+
+This self-paced course is designed to introduce you to fundamental cloud computing and AWS security concepts including AWS access control and management, governance, logging, and encryption methods. It also covers security-related compliance protocols and risk management strategies, as well as procedures related to auditing your AWS security infrastructure.
+
+**NESSUS Deployment** — *Tenable University*
+
+**NESSUS Scanning** — *Tenable University*
+
+**Nessus Analysis and Reporting** — *Tenable University*
+
+`2011`
+
+**ITIL-F** *HDAA, Melbourne*
+
+This certification verifies that support center professionals possess the knowledge of the ITIL® framework necessary to support an ITIL initiative. ITIL Foundation certified individuals have demonstrated their awareness of the ITIL processes and terms and satisfied the prerequisite requirement for pursuing additional ITIL certifications.
+
+
 ## Education <i class="fas fa-university"></i>
 
 `2005-2006`
