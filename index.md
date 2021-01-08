@@ -15,19 +15,19 @@ Cyber Security Professional / People Leader / Cloud Security Advocate
 <br>
 
 <i class="fas fa-at"></i>  <a href="mailto:dave@david-clarke.id.au">dave@david-clarke.id.au</a> <br> 
-<i class="fas fa-mobile-alt"></i>  +61 Please reach out to me privately if you require my mobile #
+<i class="fas fa-mobile-alt"></i>  +61 Please reach out to me privately (email/keybase) if you require my mobile #
 
 <br>
 
 <div id="webaddress">
   <a href="https://david-clarke.id.au"><i class="fas fa-house-user"></i> david-clarke.id.au</a> <br>
+  <a href="https://keybase.io/davidclarke_au"><i class="fab fa-keybase"></i> KeyBase - davidclarke_au</a> <br>
   <a href="https://blog.david-clarke.id.au"><i class="fab fa-tumblr"></i>&nbsp;Blog</a> <br>
   <a href="https://www.linkedin.com/in/davidclarkeau/"><i class="fa fa-linkedin"></i> linkedin.com/in/davidclarkeau</a> <br/>
   <a href="https://github.com/davidclarke-au"><i class="fab fa-github"></i> GitHub - davidclarke-au</a> <br>
   <a href="https://gitlab.com/davidclarke-au"><i class="fa fa-gitlab"></i> GitLab - davidclarke-au</a> <br>
   <a href="https://twitter.com/davidclarke_au"><i class="fab fa-twitter"></i> @davidclarke_au</a> <br>
   <a href="https://david-clarke-au.medium.com"><i class="fab fa-medium-m"></i> david-clarke-au.medium.com</a> <br>
-  <a href="https://keybase.io/davidclarke_au"><i class="fab fa-keybase"></i> KeyBase - davidclarke_au</a> <br>
   <a href="https://david-clarke.id.au/ct.html"><i class="fas fa-crow"></i> Click me?</a> -
   <a href="https://david-clarke.id.au/ct2.html"><i class="fas fa-bullseye"></i> Click me?</a>
 </div>
