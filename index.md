@@ -3,13 +3,13 @@ layout: cv
 title: David Clarke's CV
 ---
 # David Clarke
-Cyber Security Professional
+Cyber Security Professional / People Leader
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+Melbourne<br/>
+AUSTRALIA<br/>
+Also avalaible fully remotely<br/>
 
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+<a href="dave@david-clarke.id.au">dave@david-clarke.id.au</a> - +358 (0)2 941 51617
 
 <div id="webaddress">
   <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
