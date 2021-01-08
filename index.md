@@ -42,24 +42,6 @@ What I love doing is **TALKING** to people.... So please feel free to get in con
 
 Anyway, all the boring stuff below... 
 
-## Education <i class="fas fa-university"></i>
-
-`2005-2006`
-**EXCOM Education**, *Customised Course*, Melbourne, VIC, AUS.
-<br>
-*Given my previous credits earned in my diploma, I sat a customised course at EXCOM Education which consisted of the CompTIA A+ Hardware and Software Course and the Career Builder Course. Once completed I was hired by EXCOM.*
-<br>
-
-`2004-2006`
-**Computer Power Training Institute**, *Diploma of eBusiness Support*, Melbourne, VIC, AUS.
-<br>
-*The course provides the comprehensive training needed in today's business world to develop and support electronic business solutions. Completion of the course includes the attainment of two of the industry's highly sought, globally recognised vendor certifications:Microsoft Certified Professional and either a CompTIA i-Net+ or Red Hat Linux Certified Technician certification.*
-<br>
-
-`2003`
-**VCE**, *Sucessfully completed Year 12 and achieved my VCE*, State School FTW.
-<br>
-
 ## Experience <i class="fas fa-briefcase"></i>
 
 `2019 - Present`
@@ -69,8 +51,10 @@ Anyway, all the boring stuff below...
 
 In my role as SOC Operations Manager (VIC) MSS I am responsible for overall delivery, performance and continual service improvement of Managed Security Operations Centre (SOC), Security Information and Event Management (SIEM), Vulnerability Management System (VMS), Managed Endpoint Detection & Response (MEDR) and Digital Forensics & Incident Response (DFIR) offerings.
 <br>
+<br>
 The SOC Operations Manager (VIC) MSS is a key member of the MSS leadership team in the region. The Manager - SOC Operations (VIC) MSS leads the activities and management of the Managed Security Services operations team in the region, positioning CyberCX as Australia’s greatest force of cyber security professionals.
-
+<br>
+<br>
 **Senior Service Delivery Manager**
 
 In my role @ CyberCX I am responsible for<br>
@@ -91,6 +75,24 @@ Bridge between Service Delivery and Security Operations<br>
 CyberSecurity Project Management<br>
 <br>
 PreSales engagements for CyberCX portfolio offerings<br>
+
+## Education <i class="fas fa-university"></i>
+
+`2005-2006`
+**EXCOM Education**, *Customised Course*, Melbourne, VIC, AUS.
+<br>
+*Given my previous credits earned in my diploma, I sat a customised course at EXCOM Education which consisted of the CompTIA A+ Hardware and Software Course and the Career Builder Course. Once completed I was hired by EXCOM.*
+<br>
+
+`2004-2006`
+**Computer Power Training Institute**, *Diploma of eBusiness Support*, Melbourne, VIC, AUS.
+<br>
+*The course provides the comprehensive training needed in today's business world to develop and support electronic business solutions. Completion of the course includes the attainment of two of the industry's highly sought, globally recognised vendor certifications:Microsoft Certified Professional and either a CompTIA i-Net+ or Red Hat Linux Certified Technician certification.*
+<br>
+
+`2003`
+**VCE**, *Sucessfully completed Year 12 and achieved my VCE*, State School FTW.
+<br>
 
 ## Publications
 
