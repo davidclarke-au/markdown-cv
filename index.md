@@ -183,6 +183,10 @@ The purpose of the role is to provide technical expertise and assistance in proj
 <br>
 
 
+## References <i class="fas fa-user-friends"></i>
+
+**Avaliable on request only..**
+
 ## Awards and honors
 
 `2020`
