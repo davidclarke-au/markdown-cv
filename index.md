@@ -679,16 +679,14 @@ American Geophysical Union
 
 Native: English
 
-Basic: Finnish, French, German
+Basic: None, yet, hopefully Italian soon :)
 
 ## Personal
 
-Birth date: 9 March 1980
+Birth date: I'm likely applying for a Security role, so adding this should fail me instantly. Plus you don't need this information at this stage of the recruitment process anyway.
 
-Citizenship: USA
+Citizenship: Australian Citizen
 
-Residence: Finland (Permanent resident)
-
-Family: Married, two children
+Family: Married, Dad to one
 
 <br/>Last updated: January 2021<br/><br/>
