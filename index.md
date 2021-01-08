@@ -50,7 +50,8 @@ Anyway, all the boring stuff below...
 
 ## Skillset / Passions / Areas of Interest <i class="far fa-thumbs-up"></i>
 
-
+1         2             3
+jdjd      jkjsdkf       lkjsdlkjsdf
 
 ## Experience <i class="fas fa-briefcase"></i>
 
