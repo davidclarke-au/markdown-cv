@@ -52,7 +52,7 @@ Given my previous credits earned in my diploma, I sat a customised course at EXC
 <br>
 
 `2003`
-**VCE**, *Sucessfully completed Year 12 and achieved by VCE*, State School FTW.
+**VCE**, *Sucessfully completed Year 12 and achieved my VCE*, State School FTW.
 <br>
 
 ## Experience
