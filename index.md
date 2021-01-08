@@ -14,7 +14,7 @@ Cyber Security Professional / People Leader / Cloud Security Advocate
 
 <div id="webaddress">
   <a href="https://david-clarke.id.au"><i class="fas fa-home"></i> david-clarke.id.au</a> <br>
-  <a href="https://blog.david-clarke.id.au"><i class="fas fa-home"></i> My Blogu</a> <br>
+  <a href="https://blog.david-clarke.id.au"><i class="fas fa-home"></i> My Blog</a> <br>
   <a href="https://www.linkedin.com/in/davidclarkeau/"><i class="fa fa-linkedin"></i> linkedin.com/in/davidclarkeau</a> <br/>
   <a href="https://github.com/davidclarke-au"><i class="fab fa-github"></i> GitHub - davidclarke-au</a> <br>
   <a href="https://gitlab.com/davidclarke-au"><i class="fa fa-gitlab"></i> GitLab - davidclarke-au</a> <br>
