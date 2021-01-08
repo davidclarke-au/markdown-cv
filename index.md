@@ -68,29 +68,29 @@ Anyway, all the boring stuff below...
 **SOC Operations Manager - VIC - Managed Security Services**
 
 In my role as SOC Operations Manager (VIC) MSS I am responsible for overall delivery, performance and continual service improvement of Managed Security Operations Centre (SOC), Security Information and Event Management (SIEM), Vulnerability Management System (VMS), Managed Endpoint Detection & Response (MEDR) and Digital Forensics & Incident Response (DFIR) offerings.
-
+<br>
 The SOC Operations Manager (VIC) MSS is a key member of the MSS leadership team in the region. The Manager - SOC Operations (VIC) MSS leads the activities and management of the Managed Security Services operations team in the region, positioning CyberCX as Australia’s greatest force of cyber security professionals.
 
 **Senior Service Delivery Manager**
 
-In my role @ CyberCX I am responsible for
-
-Service Delivery Management - Manged SIEM, SOC, VMS, MEDR, DFIR
-Service Transition - Project -> BAU
-Service Delivery Governance
-Service Level Risk Management
-
-Security Operations Management:
-Lead and Owner of SecOps Process & Procedures
-Lead and Owner of SecOps Governance
-Continual Service Improvement
-Enhancement and Innovation
-Service Activation and Onboarding
-Bridge between Service Delivery and Security Operations
-
-CyberSecurity Project Management
-
-PreSales engagements for CyberCX portfolio offerings
+In my role @ CyberCX I am responsible for<br>
+<br>
+Service Delivery Management - Manged SIEM, SOC, VMS, MEDR, DFIR<br>
+Service Transition - Project -> BAU<br>
+Service Delivery Governance<br>
+Service Level Risk Management<br>
+<br>
+Security Operations Management:<br>
+Lead and Owner of SecOps Process & Procedures<br>
+Lead and Owner of SecOps Governance<br>
+Continual Service Improvement<br>
+Enhancement and Innovation<br>
+Service Activation and Onboarding<br>
+Bridge between Service Delivery and Security Operations<br>
+<br>
+CyberSecurity Project Management<br>
+<br>
+PreSales engagements for CyberCX portfolio offerings<br>
 
 ## Publications
 
