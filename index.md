@@ -276,6 +276,8 @@ Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt 
 
 ## Interests
 
+Come on, we covered this above... OSINT. - blog.david-clarke.id.au
+
 ## Languages
 
 Native: English
