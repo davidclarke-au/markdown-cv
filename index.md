@@ -202,7 +202,7 @@ I wanted to call this piece *AusPost Parcel Lockers - Insecure by Design* but we
 <br>
 A blog dicussing the reason for the disablment of TLS 1.0, who, what, when, why etc...
 
-**Deleted your Yahoo! Account? Check again…** <a href="https://medium.com/pageup-tech/deleted-your-yahoo-account-check-again-3c3f612ef55a"> <i class="fab fa-medium-m"></i></a> <a href="https://www.zdnet.com/article/yahoo-not-deleting-email-accounts-say-users/"> <i class="far fa-newspaper"></i></a>
+**Deleted your Yahoo! Account? Check again…** <a href="https://medium.com/pageup-tech/deleted-your-yahoo-account-check-again-3c3f612ef55a"> <i class="fab fa-medium-m"></i></a> - <a href="https://www.zdnet.com/article/yahoo-not-deleting-email-accounts-say-users/"> <i class="far fa-newspaper"></i></a>
 <br>
 A write up of the mess that was deleting a Yahoo account post their Security Incident.
 
