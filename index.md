@@ -276,7 +276,7 @@ This certification verifies that support center professionals possess the knowle
 
 ## Interests <i class="fas fa-campground"></i>
 
-Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-clarke.id.au">   <i class="fab fa-tumblr"></i></a> then we can talk <a href="https://blog.david-clarke.id.au/tagged/vinyl"><i class="fas fa-record-vinyl"></i></a> or <i class="fas fa-beer"></i> or <i class="fas fa-flag-checkered"></i> or <i class="fas fa-campground"></i> <i class="fas fa-hiking"></i>
+Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-clarke.id.au">   <i class="fab fa-tumblr"></i></a> then we can talk <a href="https://blog.david-clarke.id.au/tagged/vinyl"><i class="fas fa-record-vinyl"></i></a> or <a href="https://blog.david-clarke.id.au/tagged/beer"><i class="fas fa-beer"></i></a> or <a href="https://blog.david-clarke.id.au/tagged/motogp"><i class="fas fa-flag-checkered"></i></a> or <a href="https://blog.david-clarke.id.au/tagged/camping"><i class="fas fa-campground"></i> <i class="fas fa-hiking"></i></a>
 
 ## Languages <i class="fas fa-language"></i>
 
