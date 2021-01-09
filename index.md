@@ -178,7 +178,7 @@ The purpose of the role is to provide technical expertise and assistance in proj
 
 **Previous work history before 2012 can be provided on request or visible on my LinkedIn**
 
-## Blogs & Articles 
+## Blogs & Articles <i class="fas fa-signature"></i>
 
 ### Links: LinkedIn <i class="fab fa-linkedin-in"></i> & Medium <i class="fab fa-medium-m"></i>
 
