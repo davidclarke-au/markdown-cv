@@ -186,6 +186,20 @@ The purpose of the role is to provide technical expertise and assistance in proj
 <br>
 With the recent advice published by AWS around best practice for MFA on AWS Organisations (not a typo <i class="fas fa-globe-asia"></i> <i class="far fa-smile-wink"></i>) management and member accounts, I thought it would be a good chance to write up how I tackled this is a previously and hopefully provide some guidance for others. 
 
+**GDPR & PageUp Security** - <a href="https://medium.com/pageup-tech/gdpr-pageup-security-ef5d788c4e34"> <i class="fab fa-medium-m"></i></a>
+<br>
+The aim of this article is to talk though some key GDPR terms and the parts of the GDPR that matter to our clients and how we are addressing them.
+
+**PageUp Passwords — Housekeeping and Best Practice** - <a href="https://medium.com/pageup-tech/pageup-passwords-3b71615a1363"> <i class="fab fa-medium-m"></i></a>
+<br>
+A short piece on password best practive for SaaS and the options that PageUp provided for clients. SSO vs Non-SSO.
+
+**AusPost Parcel Lockers — Hardening Required** <a href="https://david-clarke-au.medium.com/auspost-parcel-lockers-hardening-required-7864ae64815b"> <i class="fab fa-medium-m"></i></a>
+<br>
+I wanted to call this piece *AusPost Parcel Lockers - Insecure by Design* but we agreed to change it. A write on a discovered Security weakness and the follow ups, disclosures etc.
+
+
+
 ## Training <i class="fas fa-book-reader"></i>
 
 `Ongoing`
