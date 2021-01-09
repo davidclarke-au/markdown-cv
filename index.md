@@ -267,9 +267,10 @@ This certification verifies that support center professionals possess the knowle
 
 ## Conference activity <i class="fas fa-chalkboard-teacher"></i>
 
+`2019`
+
 ### BSides Melbourne 2019
 
-`2019`
 **Session chair**, *NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics*, Putten, Netherlands.<br/>
 “Global modelling of early and recent Earth”
 
