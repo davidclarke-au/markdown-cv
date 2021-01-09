@@ -280,17 +280,17 @@ Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-c
 
 ## Languages <i class="fas fa-language"></i>
 
-Native: English
+**Native:** English
 
-Basic: None, yet, hopefully Italian soon :)
+**Basic:** None, yet, hopefully Italian soon :)
 
 ## Personal <i class="fas fa-info-circle"></i>
 
-Birth date: I'm likely applying for a Security role, so adding this should fail me instantly. Plus you don't need this information at this stage of the recruitment process anyway.
+**Birth date:** I'm likely applying for a Security role, so adding this should fail me instantly. Plus you don't need this information at this stage of the recruitment process anyway.
 
-Citizenship: Australian Citizen
+**Citizenship:** Australian Citizen
 
-Family: Married, Dad to one
+**Family:** Married, Dad to one
 
 ## References <i class="fas fa-user-friends"></i>
 
