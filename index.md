@@ -272,8 +272,13 @@ This certification verifies that support center professionals possess the knowle
 
 ### BSides Melbourne 2019
 
-**Session chair**, *NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics*, Putten, Netherlands.<br/>
-“Global modelling of early and recent Earth”
+**Speaker**, *Strengthening security in a post-incident world.*<br/>
+<br>
+I spoke @ the inaugural BSides Melbourne 2019 on "Strengthening security in a post-incident world"
+
+The structure of my talk was to talk about the incident, who we are, the legislative landscape that we faced, the challenges we saw and how to strengthen security from the lessons we learnt, both technical and non technical.
+
+The goal of the talk was to share with the wider Security community what happened, share knowledge and leanings, and give attendees easy to implement suggestions for potential uplift at their own companies.
 
 
 ## Interests <i class="fas fa-campground"></i>
