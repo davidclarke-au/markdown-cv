@@ -179,7 +179,7 @@ The purpose of the role is to provide technical expertise and assistance in proj
 **Previous work history before 2012 can be provided on request or visible on my LinkedIn**
 
 ## Blogs & Articles <i class="fas fa-signature"></i>
-
+<br>
 ### Links: LinkedIn <i class="fab fa-linkedin-in"></i> - Medium <i class="fab fa-medium-m"></i> - Other <i class="far fa-newspaper"></i>
 
 <i class="fas fa-sms"></i> **Tackling MFA for AWS Organization Member Accounts**  - <a href="https://www.linkedin.com/pulse/tackling-mfa-aws-organistion-memberaccounts-david-clarke/"><i class="fab fa-linkedin-in"></i></a> - <a href="https://david-clarke-au.medium.com/tackling-mfa-for-aws-organistion-member-accounts-cde6e2dcfce1"> <i class="fab fa-medium-m"></i></a>
