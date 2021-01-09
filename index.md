@@ -182,35 +182,35 @@ The purpose of the role is to provide technical expertise and assistance in proj
 
 ### Links: LinkedIn <i class="fab fa-linkedin-in"></i> - Medium <i class="fab fa-medium-m"></i> - Other <i class="far fa-newspaper"></i>
 
-**Tackling MFA for AWS Organization Member Accounts**  - <a href="https://www.linkedin.com/pulse/tackling-mfa-aws-organistion-memberaccounts-david-clarke/"><i class="fab fa-linkedin-in"></i></a> - <a href="https://david-clarke-au.medium.com/tackling-mfa-for-aws-organistion-member-accounts-cde6e2dcfce1"> <i class="fab fa-medium-m"></i></a>
+<i class="fas fa-sms"></i> **Tackling MFA for AWS Organization Member Accounts**  - <a href="https://www.linkedin.com/pulse/tackling-mfa-aws-organistion-memberaccounts-david-clarke/"><i class="fab fa-linkedin-in"></i></a> - <a href="https://david-clarke-au.medium.com/tackling-mfa-for-aws-organistion-member-accounts-cde6e2dcfce1"> <i class="fab fa-medium-m"></i></a>
 <br>
 With the recent advice published by AWS around best practice for MFA on AWS Organisations (not a typo <i class="fas fa-globe-asia"></i> <i class="far fa-smile-wink"></i>) management and member accounts, I thought it would be a good chance to write up how I tackled this is a previously and hopefully provide some guidance for others. 
 
-**GDPR & PageUp Security** - <a href="https://medium.com/pageup-tech/gdpr-pageup-security-ef5d788c4e34"> <i class="fab fa-medium-m"></i></a>
+<i class="fas fa-globe-europe"></i> **GDPR & PageUp Security** - <a href="https://medium.com/pageup-tech/gdpr-pageup-security-ef5d788c4e34"> <i class="fab fa-medium-m"></i></a>
 <br>
 The aim of this article is to talk though some key GDPR terms and the parts of the GDPR that matter to our clients and how we are addressing them.
 
-**PageUp Passwords — Housekeeping and Best Practice** - <a href="https://medium.com/pageup-tech/pageup-passwords-3b71615a1363"> <i class="fab fa-medium-m"></i></a>
+<i class="fas fa-key"></i> **PageUp Passwords — Housekeeping and Best Practice** - <a href="https://medium.com/pageup-tech/pageup-passwords-3b71615a1363"> <i class="fab fa-medium-m"></i></a>
 <br>
 A short piece on password best practive for SaaS and the options that PageUp provided for clients. SSO vs Non-SSO.
 
-**AusPost Parcel Lockers — Hardening Required** <a href="https://david-clarke-au.medium.com/auspost-parcel-lockers-hardening-required-7864ae64815b"> <i class="fab fa-medium-m"></i></a>
+<i class="fas fa-mail-bulk"></i> **AusPost Parcel Lockers — Hardening Required** <a href="https://david-clarke-au.medium.com/auspost-parcel-lockers-hardening-required-7864ae64815b"> <i class="fab fa-medium-m"></i></a>
 <br>
 I wanted to call this piece *AusPost Parcel Lockers - Insecure by Design* but we agreed to change it. A write up on a discovered Security weakness and the follow ups, disclosures etc.
 
-**PageUp Disabling TLS 1.0** <a href="https://david-clarke-au.medium.com/tackling-mfa-for-aws-organistion-member-accounts-cde6e2dcfce1"> <i class="fab fa-medium-m"></i></a>
+<i class="fas fa-lock"></i> **PageUp Disabling TLS 1.0** <a href="https://david-clarke-au.medium.com/tackling-mfa-for-aws-organistion-member-accounts-cde6e2dcfce1"> <i class="fab fa-medium-m"></i></a>
 <br>
 A blog dicussing the reason for the disablment of TLS 1.0, who, what, when, why etc...
 
-**Deleted your Yahoo! Account? Check again…** <a href="https://medium.com/pageup-tech/deleted-your-yahoo-account-check-again-3c3f612ef55a"> <i class="fab fa-medium-m"></i></a> - <a href="https://www.zdnet.com/article/yahoo-not-deleting-email-accounts-say-users/"> <i class="far fa-newspaper"></i></a>
+<i class="fab fa-yahoo"></i> **Deleted your Yahoo! Account? Check again…** <a href="https://medium.com/pageup-tech/deleted-your-yahoo-account-check-again-3c3f612ef55a"> <i class="fab fa-medium-m"></i></a> - <a href="https://www.zdnet.com/article/yahoo-not-deleting-email-accounts-say-users/"> <i class="far fa-newspaper"></i></a>
 <br>
 A write up of the mess that was deleting a Yahoo account post their Security Incident.
 
-**G Suite + SPF, why bother?** <a href="https://medium.com/pageup-tech/g-suite-spf-why-bother-9b024e74a017"> <i class="fab fa-medium-m"></i></a>
+<i class="fab fa-google"></i> **G Suite + SPF, why bother?** <a href="https://medium.com/pageup-tech/g-suite-spf-why-bother-9b024e74a017"> <i class="fab fa-medium-m"></i></a>
 <br>
 A piece on the very frustrating shortcoming of GSuite SPF and DKIM which was thankfully fixed.
 
-**Stevie Ray Vaughan — Cast of Thousands** <a href="https://david-clarke-au.medium.com/stevie-ray-vaughan-cast-of-thousands-e41f140a7dfa"> <i class="fab fa-medium-m"></i></a>
+<i class="fas fa-guitar"></i> **Stevie Ray Vaughan — Cast of Thousands** <a href="https://david-clarke-au.medium.com/stevie-ray-vaughan-cast-of-thousands-e41f140a7dfa"> <i class="fab fa-medium-m"></i></a>
 <br>
 Eh, not tech related, but a passion piece.
 
