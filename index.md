@@ -208,7 +208,7 @@ A write up of the mess that was deleting a Yahoo account post their Security Inc
 
 <i class="fab fa-google"></i> **G Suite + SPF, why bother?** <a href="https://medium.com/pageup-tech/g-suite-spf-why-bother-9b024e74a017"> <i class="fab fa-medium-m"></i></a>
 <br>
-A piece on the very frustrating shortcoming of GSuite SPF and DKIM which was thankfully fixed.
+A piece on the very frustrating shortcomings and insecurities of GSuite SPF and DKIM implementation, which was thankfully fixed.
 
 <i class="fas fa-guitar"></i> **Stevie Ray Vaughan — Cast of Thousands** <a href="https://david-clarke-au.medium.com/stevie-ray-vaughan-cast-of-thousands-e41f140a7dfa"> <i class="fab fa-medium-m"></i></a>
 <br>
