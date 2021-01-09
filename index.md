@@ -2,7 +2,7 @@
 layout: cv
 title: David Clarke
 ---
-# David Clarke <i class="far fa-id-badge"></i>
+# <i class="far fa-id-badge"></i> David Clarke 
 <br>
 Cyber Security Professional / People Leader / Cloud Security Advocate
 
