@@ -182,7 +182,9 @@ The purpose of the role is to provide technical expertise and assistance in proj
 
 ### Links: LinkedIn <i class="fab fa-linkedin-in"></i> & Medium <i class="fab fa-medium-m"></i>
 
-**Tackling MFA for AWS Organization Member Accounts** <a href="https://www.linkedin.com/pulse/tackling-mfa-aws-organistion-memberaccounts-david-clarke/"><i class="fab fa-linkedin-in"></i></a> <a href="https://david-clarke-au.medium.com/tackling-mfa-for-aws-organistion-member-accounts-cde6e2dcfce1"> <i class="fab fa-medium-m"></i>
+**Tackling MFA for AWS Organization Member Accounts** 
+
+<a href="https://www.linkedin.com/pulse/tackling-mfa-aws-organistion-memberaccounts-david-clarke/"><i class="fab fa-linkedin-in"></i></a> <a href="https://david-clarke-au.medium.com/tackling-mfa-for-aws-organistion-member-accounts-cde6e2dcfce1"> <i class="fab fa-medium-m"></i>
 <br>
 With the recent advice published by AWS around best practice for MFA on AWS Organisations (not a typo :AU: :wink:) management and member accounts, I thought it would be a good chance to write up how I tackled this is a previously and hopefully provide some guidance for others. 
 
