@@ -180,7 +180,7 @@ The purpose of the role is to provide technical expertise and assistance in proj
 
 ## Blogs & Articles <i class="fas fa-signature"></i>
 
-### Links: LinkedIn <i class="fab fa-linkedin-in"></i> & Medium <i class="fab fa-medium-m"></i>
+### Links: LinkedIn <i class="fab fa-linkedin-in"></i> - Medium <i class="fab fa-medium-m"></i> - Other <i class="far fa-newspaper"></i>
 
 **Tackling MFA for AWS Organization Member Accounts**  - <a href="https://www.linkedin.com/pulse/tackling-mfa-aws-organistion-memberaccounts-david-clarke/"><i class="fab fa-linkedin-in"></i></a> - <a href="https://david-clarke-au.medium.com/tackling-mfa-for-aws-organistion-member-accounts-cde6e2dcfce1"> <i class="fab fa-medium-m"></i></a>
 <br>
@@ -196,7 +196,15 @@ A short piece on password best practive for SaaS and the options that PageUp pro
 
 **AusPost Parcel Lockers — Hardening Required** <a href="https://david-clarke-au.medium.com/auspost-parcel-lockers-hardening-required-7864ae64815b"> <i class="fab fa-medium-m"></i></a>
 <br>
-I wanted to call this piece *AusPost Parcel Lockers - Insecure by Design* but we agreed to change it. A write on a discovered Security weakness and the follow ups, disclosures etc.
+I wanted to call this piece *AusPost Parcel Lockers - Insecure by Design* but we agreed to change it. A write up on a discovered Security weakness and the follow ups, disclosures etc.
+
+**PageUp Disabling TLS 1.0** <a href="https://david-clarke-au.medium.com/tackling-mfa-for-aws-organistion-member-accounts-cde6e2dcfce1"> <i class="fab fa-medium-m"></i></a>">
+<br>
+A blog dicussing the reason for the disablment of TLS 1.0, who, what, when, why etc...
+
+**Deleted your Yahoo! Account? Check again…** <a href="https://medium.com/pageup-tech/deleted-your-yahoo-account-check-again-3c3f612ef55a"> <i class="fab fa-medium-m"></i></a> <a href="https://david-clarke-au.medium.com/tackling-mfa-for-aws-organistion-member-accounts-cde6e2dcfce1"> <i class="fab fa-medium-m"></i></a>"> <i class="far fa-newspaper"></i>
+<br>
+A write up of the mess that was deleting a Yahoo account post their Security Incident.
 
 
 
