@@ -283,7 +283,7 @@ TBA
 
 ### BSides Melbourne 2019
 
-**Speaker**, *Strengthening security in a post-incident world.*<br/>
+**Speaker**, *Strengthening Security in a Post-Incident World.*<br/>
 <br>
 I spoke @ the inaugural BSides Melbourne 2019 on "Strengthening security in a post-incident world"
 
