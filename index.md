@@ -55,7 +55,7 @@ Cyber Security *Culture, Awareness & Uplift*
 
 Cyber Security *Leadership*
 
-Cyber Security *Stratergy*
+Cyber Security *Strategy*
 
 *Cloud Security*, with preference to   <i class="fab fa-aws"></i>
 
@@ -82,7 +82,7 @@ The SOC Operations Manager (VIC) MSS is a key member of the MSS leadership team 
 
 In my role @ CyberCX I am responsible for<br>
 <br>
-Service Delivery Management - Manged SIEM, SOC, VMS, MEDR, DFIR<br>
+Service Delivery Management - Managed SIEM, SOC, VMS, MEDR, DFIR<br>
 Service Transition - Project -> BAU<br>
 Service Delivery Governance<br>
 Service Level Risk Management<br>
@@ -108,7 +108,7 @@ PreSales engagements for CyberCX portfolio offerings<br>
 <br>
 In my role @ Enosys I am responsible for<br>
 <br>
-Service Delivery Management - Manged SIEM, SOC, VMS, MEDR, DFIR<br>
+Service Delivery Management - Managed SIEM, SOC, VMS, MEDR, DFIR<br>
 Service Transition - Project -> BAU<br>
 Service Delivery Governance<br>
 Service Level Risk Management<br>
@@ -204,7 +204,7 @@ The aim of this article is to talk though some key GDPR terms and the parts of t
 
 <i class="fas fa-key"></i> **PageUp Passwords — Housekeeping and Best Practice** - <a href="https://medium.com/pageup-tech/pageup-passwords-3b71615a1363"> <i class="fab fa-medium-m"></i></a>
 <br>
-A short piece on password best practive for SaaS and the options that PageUp provided for clients. SSO vs Non-SSO.
+A short piece on password best proactive for SaaS and the options that PageUp provided for clients. SSO vs Non-SSO.
 
 <i class="fas fa-mail-bulk"></i> **AusPost Parcel Lockers — Hardening Required** <a href="https://david-clarke-au.medium.com/auspost-parcel-lockers-hardening-required-7864ae64815b"> <i class="fab fa-medium-m"></i></a>
 <br>
@@ -212,7 +212,7 @@ I wanted to call this piece *AusPost Parcel Lockers - Insecure by Design* but we
 
 <i class="fas fa-lock"></i> **PageUp Disabling TLS 1.0** <a href="https://david-clarke-au.medium.com/tackling-mfa-for-aws-organistion-member-accounts-cde6e2dcfce1"> <i class="fab fa-medium-m"></i></a>
 <br>
-A blog dicussing the reason for the disablment of TLS 1.0, who, what, when, why etc...
+A blog discussing the reason for the disablement of TLS 1.0, who, what, when, why etc...
 
 <i class="fab fa-yahoo"></i> **Deleted your Yahoo! Account? Check again…** <a href="https://medium.com/pageup-tech/deleted-your-yahoo-account-check-again-3c3f612ef55a"> <i class="fab fa-medium-m"></i></a> - <a href="https://www.zdnet.com/article/yahoo-not-deleting-email-accounts-say-users/"> <i class="far fa-newspaper"></i></a>
 <br>
@@ -230,7 +230,7 @@ Eh, not tech related, but a passion piece.
 
 `Ongoing`
 
-My **preffered way of learning** is on the job, with smart, driven and passionate people!
+My **preferred way of learning** is on the job, with smart, driven and passionate people!
 
 <br>
 
@@ -267,7 +267,7 @@ This certification verifies that support center professionals possess the knowle
 <br>
 
 `2003`
-**VCE**, *Sucessfully completed Year 12 and achieved my VCE*, State School FTW.
+**VCE**, *Successfully completed Year 12 and achieved my VCE*, State School FTW.
 <br>
 
 
@@ -312,6 +312,6 @@ Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-c
 
 ## References <i class="fas fa-user-friends"></i>
 
-**Avaliable on request only..**
+**Available on request only..**
 
 <br/>*Last updated: January 2021* <a href="https://github.com/davidclarke-au/markdown-cv"><i class="fab fa-git"></i></a> <br> <br>
