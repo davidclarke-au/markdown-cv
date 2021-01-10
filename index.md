@@ -310,4 +310,4 @@ Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-c
 
 **Available on request only..**
 
-<br/>*Last updated: January 2021* <a href="https://github.com/davidclarke-au/markdown-cv"><i class="fab fa-git"></i></a> <br> <br>
+<br/>![Badge](https://img.shields.io/github/last-commit/davidclarke-au/markdown-cv?style=for-the-badge) <a href="https://github.com/davidclarke-au/markdown-cv"><i class="fab fa-git"></i></a> <br> <br>
