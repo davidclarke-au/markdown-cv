@@ -27,7 +27,7 @@ Cyber Security Professional / People Leader / Cloud Security Advocate
 
 ## A Little Bit About Me <i class="fas fa-route"></i>
 
-I **hate** writing CV's, but I understand why it's required, hence why it's now in a <a href="https://github.com/davidclarke-au/markdown-cv"><i class="fas fa-code-branch"></i> Code Repository</a>. Simple to update, modern, backed up and demonstrates many technical skills right off the bat.
+I **loathe** writing CV's, but I understand why it's required, hence why it's now in a <a href="https://github.com/davidclarke-au/markdown-cv"><i class="fas fa-code-branch"></i> Code Repository</a>. Simple to update, modern, backed up and demonstrates many technical skills right off the bat.
 
 I honestly think you should get a good picture of who I am, what I do and what might be a good future fit for me from the links above. OSINT <i class="far fa-smile-wink"></i>
 
