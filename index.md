@@ -317,5 +317,4 @@ Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-c
 ## Source <i class="fab fa-github"></i>
 `Clone Ready, help yourself..`
 
-![Badge](https://img.shields.io/github/last-commit/davidclarke-au/markdown-cv?style=for-the-badge) ![License](https://img.shields.io/github/license/davidclarke-au/markdown-cv?style=for-the-badge)<br>
-<a href="https://github.com/davidclarke-au/markdown-cv"><i class="fab fa-git"></i></a> <br> <br>
+![Badge](https://img.shields.io/github/last-commit/davidclarke-au/markdown-cv?style=for-the-badge) ![License](https://img.shields.io/github/license/davidclarke-au/markdown-cv?style=for-the-badge)<br>    <a href="https://github.com/davidclarke-au/markdown-cv"><i class="fab fa-git"></i></a> <br> <br>
