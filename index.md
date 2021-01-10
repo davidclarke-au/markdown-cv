@@ -51,10 +51,10 @@ Anyway, all the boring stuff below...
 
 ## Skillset / Passions / Areas of Interest <i class="far fa-thumbs-up"></i>
 
-Cyber Security, Culture, Awareness
-Cyber Security Leadership
-Cyber Security Stratergy
-Cloud Security (with preference to <i class="fab fa-aws"></i>)
+- Cyber Security, Culture, Awareness
+- Cyber Security Leadership
+- Cyber Security Stratergy
+- Cloud Security (with preference to <i class="fab fa-aws"></i>)
 
 ## Experience <i class="fas fa-briefcase"></i>
 
@@ -305,4 +305,4 @@ Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-c
 
 **Avaliable on request only..**
 
-<br/>*Last updated: January 2021*<br/><br/>
+<br/>*Last updated: January 2021*<br/><br/> <a href="https://github.com/davidclarke-au/markdown-cv"><i class="fab fa-git"></i>"></a>
