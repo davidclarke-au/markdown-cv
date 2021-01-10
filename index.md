@@ -19,7 +19,7 @@ Cyber Security Professional / People Leader / Cloud Security Advocate
 <div id="webaddress">
   <a href="https://david-clarke.id.au"><i class="fas fa-house-user"></i> david-clarke.id.au</a>     <br>
   <a href="https://keybase.io/davidclarke_au"><i class="fab fa-keybase"></i> KeyBase - davidclarke_au</a>     <br>
-  <a href="https://keybase.io/davidclarke_au/pgp_keys.asc"><i class="fas fa-key"></i> KPGP - 1234 E339 C30C C855 </a>     <br>
+  <a href="https://keybase.io/davidclarke_au/pgp_keys.asc"><i class="fas fa-key"></i> PGP - 1234 E339 C30C C855 </a>     <br>
   <a href="https://blog.david-clarke.id.au"><i class="fab fa-tumblr"></i>&nbsp;Blog</a>              <br>
   <a href="https://www.linkedin.com/in/davidclarkeau/"><i class="fa fa-linkedin"></i> linkedin.com/in/davidclarkeau</a>   <br/>
   <a href="https://github.com/davidclarke-au"><i class="fab fa-github"></i> GitHub - davidclarke-au</a>    <br>
