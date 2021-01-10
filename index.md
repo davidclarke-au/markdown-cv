@@ -51,9 +51,10 @@ Anyway, all the boring stuff below...
 
 ## Skillset / Passions / Areas of Interest <i class="far fa-thumbs-up"></i>
 
-1         2             3
-
-jdjd      jkjsdkf       lkjsdlkjsdf
+Cyber Security, Culture, Awareness
+Cyber Security Leadership
+Cyber Security Stratergy
+Cloud Security (with preference to <i class="fab fa-aws"></i>)
 
 ## Experience <i class="fas fa-briefcase"></i>
 
