@@ -274,7 +274,7 @@ This certification verifies that support center professionals possess the knowle
 ## Awards and honors <i class="fas fa-award"></i>
 
 `2020`
-**Teacher of the Year**, *Vasara Ry (Geology student organization), University of Helsinki*, Finland.
+TBA
 
 
 ## Conference activity <i class="fas fa-chalkboard-teacher"></i>
