@@ -305,4 +305,4 @@ Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-c
 
 **Avaliable on request only..**
 
-<br/>*Last updated: January 2021*<br/><br/> <a href="https://github.com/davidclarke-au/markdown-cv"><i class="fab fa-git"></i>"></a>
+<br/>*Last updated: January 2021* <a href="https://github.com/davidclarke-au/markdown-cv"><i class="fab fa-git"></i>"></a>
