@@ -57,7 +57,7 @@ Cyber Security *Leadership*
 
 Cyber Security *Stratergy*
 
-*Cloud Security*, with preference to &nbsp; &nbsp; <i class="fab fa-aws"></i>
+*Cloud Security*, with preference to &nbsp; <i class="fab fa-aws"></i>
 
 Working with clients to assist in *Security maturity uplift* and *continual service improvement*
 
