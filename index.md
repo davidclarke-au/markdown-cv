@@ -54,7 +54,7 @@ Anyway, all the boring stuff below...
 - Cyber Security, Culture, Awareness
 - Cyber Security Leadership
 - Cyber Security Stratergy
-- Cloud Security (with preference to <i class="fab fa-aws"></i>)
+- Cloud Security, with preference to &nbsp; <i class="fab fa-aws"></i>
 
 ## Experience <i class="fas fa-briefcase"></i>
 
