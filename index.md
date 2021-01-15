@@ -272,11 +272,7 @@ This certification verifies that support center professionals possess the knowle
 <br>
 
 
-## Awards and honors <i class="fas fa-award"></i>
-
-`2020`
-TBA
-
+<!--- ## Awards and honors <i class="fas fa-award"></i> --->
 
 ## Conference activity <i class="fas fa-chalkboard-teacher"></i>
 
