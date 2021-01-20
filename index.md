@@ -52,19 +52,19 @@ Anyway, all the boring stuff below...
 
 ## Skillset / Passions / Areas of Interest <i class="far fa-thumbs-up"></i>
 
-Cyber Security *Culture, Awareness & Uplift*
+Cyber Security **_Culture, Awareness & Uplift_**
 
-Cyber Security *Leadership*
+Cyber Security **_Leadership_**
 
-Cyber Security *Strategy*
+Cyber Security **_Strategy_**
 
-*Cloud Security*, with preference to   <i class="fab fa-aws"></i>
+**_Cloud Security_**, with preference to   <i class="fab fa-aws"></i>
 
-Working with clients to assist in *Security maturity uplift* and *continual service improvement*
+Working with clients to assist in **_Security maturity uplift_** and *continual service improvement*
 
-BugBountys - from a client (SaaS) side though, assisting companies doing the *initial discovery* and beginning their *journey into Bug Bounty programs* via BugCrowd, HackerOne, Cobalt.IO etc...
+BugBountys - from a client (SaaS) side though, assisting companies doing the **_initial discovery_** and beginning their **_journey into Bug Bounty programs_** via BugCrowd, HackerOne, Cobalt.IO etc...
 
-Data Centre - have historically completed a significant amount of work and large projects in *Data Centres*. Always something I've enjoyed.
+Data Centre - have historically completed a significant amount of work and large projects in **_Data Centres_**. Always something I've enjoyed.
 
 ## Experience <i class="fas fa-briefcase"></i>
 
