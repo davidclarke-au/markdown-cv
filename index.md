@@ -197,7 +197,7 @@ The purpose of the role is to provide technical expertise and assistance in proj
 
 <i class="fas fa-sms"></i> **Tackling MFA for AWS Organization Member Accounts**  - <a href="https://www.linkedin.com/pulse/tackling-mfa-aws-organistion-memberaccounts-david-clarke/"><i class="fab fa-linkedin-in"></i></a> - <a href="https://david-clarke-au.medium.com/tackling-mfa-for-aws-organistion-member-accounts-cde6e2dcfce1"> <i class="fab fa-medium-m"></i></a>
 <br>
-With the recent advice published by AWS around best practice for MFA on AWS Organisations (not a typo <i class="fas fa-globe-asia"></i> <i class="far fa-smile-wink"></i>) management and member accounts, I thought it would be a good chance to write up how I tackled this is a previously and hopefully provide some guidance for others. 
+With the recent advice published by AWS around best practice for MFA on AWS Organisations (not a typo <i class="fas fa-globe-asia"></i> <i class="far fa-smile-wink"></i>) management and member accounts, I thought it would be a good chance to write up how I tackled this previously and hopefully provide some guidance for others. 
 
 <i class="fas fa-globe-europe"></i> **GDPR & PageUp Security** - <a href="https://medium.com/pageup-tech/gdpr-pageup-security-ef5d788c4e34"> <i class="fab fa-medium-m"></i></a>
 <br>
