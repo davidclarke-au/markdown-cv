@@ -207,9 +207,9 @@ The aim of this article is to talk though some key GDPR terms and the parts of t
 <br>
 A short piece on password best proactive for SaaS and the options that PageUp provided for clients. SSO vs Non-SSO.
 
-<i class="fas fa-mail-bulk"></i> **AusPost Parcel Lockers — Hardening Required** <a href="https://david-clarke-au.medium.com/auspost-parcel-lockers-hardening-required-7864ae64815b"> <i class="fab fa-medium-m"></i></a>
+<i class="fas fa-mail-bulk"></i> **AusPost Parcel Lockers — Hardening Required** <a href="https://david-clarke-au.medium.com/auspost-parcel-lockers-hardening-required-7864ae64815b"> <i class="fab fa-medium-m"></i></a> - <a href="https://auspost.com.au/about-us/about-our-site/responsible-disclosure"> <i class="far fa-newspaper"></i></a>
 <br>
-I wanted to call this piece *AusPost Parcel Lockers - Insecure by Design* but we agreed to change it. A write up on a discovered Security weakness and the follow ups, disclosures etc. - [Link to responsible disclosure credit](https://auspost.com.au/about-us/about-our-site/responsible-disclosure)
+I wanted to call this piece *AusPost Parcel Lockers - Insecure by Design* but we agreed to change it. A write up on a discovered Security weakness and the follow ups, disclosures etc.
 
 <i class="fas fa-lock"></i> **PageUp Disabling TLS 1.0** <a href="https://david-clarke-au.medium.com/tackling-mfa-for-aws-organistion-member-accounts-cde6e2dcfce1"> <i class="fab fa-medium-m"></i></a>
 <br>
