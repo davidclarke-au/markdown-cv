@@ -58,7 +58,7 @@ Cyber Security **_Leadership_**
 
 Cyber Security **_Strategy_**
 
-Cyber Security **_Evangelelist_** (is there a non-religious equivalent? If so, that....)
+Cyber Security **_Evangelist_** (is there a non-religious equivalent? If so, that....)
 
 **_Cloud Security_**, with preference to   <i class="fab fa-aws"></i>
 
