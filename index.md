@@ -290,7 +290,7 @@ Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-c
 
 **Citizenship:** Australian Citizen
 
-**Clearances** None currently, able and willing to apply
+**Clearances:** None currently, able and willing to apply
 
 **Family:** Married, Dad to one
 
