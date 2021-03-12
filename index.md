@@ -159,12 +159,13 @@ The purpose of the role is to provide technical expertise and assistance in secu
 
 There is a high degree of complexity in the role, balancing projects, vendor management, change management, problem management and incident management.
 
-Security Operations
-Project Management/Coordination
-IT Operations administration
-Stakeholder management
-ServiceDesk Support
-SOE/desktop management
+Security Operations<br>
+Project Management/Coordination<br>
+IT Operations administration<br>
+Stakeholder management<br>
+ServiceDesk Support<br>
+SOE/desktop management<br>
+<br>
 
 **IT Infrastructure Specialist**
 
