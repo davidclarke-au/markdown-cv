@@ -71,7 +71,7 @@ Data Centre - have historically completed a significant amount of work and large
 <br>
 And _more broadly..._
 
-Music, Motorsport, Camping, Hiking...
+**Music, Motorsport, Camping, Hiking...**
 
 ## Experience <i class="fas fa-briefcase"></i>
 
