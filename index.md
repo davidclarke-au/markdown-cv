@@ -60,6 +60,10 @@ Cyber Security **_Strategy_**
 
 Cyber Security **_Evangelist_** (is there a non-religious equivalent? If so, that....)
 
+And _more broadly..._
+
+Music, Motorsport, Camping, Hiking...
+
 **_Cloud Security_**, with preference to   <i class="fab fa-aws"></i>
 
 Working with clients to assist in **_Security maturity uplift_** and *continual service improvement*
