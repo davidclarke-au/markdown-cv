@@ -60,10 +60,6 @@ Cyber Security **_Strategy_**
 
 Cyber Security **_Evangelist_** (is there a non-religious equivalent? If so, that....)
 
-And _more broadly..._
-
-Music, Motorsport, Camping, Hiking...
-
 **_Cloud Security_**, with preference to   <i class="fab fa-aws"></i>
 
 Working with clients to assist in **_Security maturity uplift_** and *continual service improvement*
@@ -71,6 +67,10 @@ Working with clients to assist in **_Security maturity uplift_** and *continual 
 BugBountys - from a client (SaaS) side though, assisting companies doing the **_initial discovery_** and beginning their **_journey into Bug Bounty programs_** via BugCrowd, HackerOne, Cobalt.IO etc...
 
 Data Centre - have historically completed a significant amount of work and large projects in **_Data Centres_**. Always something I've enjoyed.
+
+And _more broadly..._
+
+Music, Motorsport, Camping, Hiking...
 
 ## Experience <i class="fas fa-briefcase"></i>
 
