@@ -119,7 +119,7 @@ Please see the role above for details
 `2016 - 2019`
 ### PageUp
 
-**Head Of Security & Compliance**
+**Global Head Of Security & Compliance**
 
 I was promoted into this global role to ensure PageUp’s IT Assets are secured by best of breed technology, practices and processes whilst maintaining compliance with relevant contractual and industry obligations in order to accelerate the growth of PageUp. Growing the team was also an important function in this role.
 
