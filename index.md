@@ -5,7 +5,7 @@ title: David Clarke
 <!--- # <i class="far fa-id-badge"></i> David Clarke --->
 # ![David Clarke](https://david-clarke.id.au/images/logo.png)
 <br>
-Cyber Security Professional / People Leader / Cloud Security Advocate
+Cyber Security Professional / People Leader / Cloud Security Advocate / Internet Explorer
 
 <br>
 
