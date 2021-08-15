@@ -62,6 +62,10 @@ Cyber Security **_Evangelist_** (is there a non-religious equivalent? If so, tha
 
 **_Cloud Security_**, with preference to   <i class="fab fa-aws"></i>
 
+**_Attack Surface Management_** tooling and strategy
+
+**_Digital Risk Protection_** tooling and strategy
+
 Working with clients to assist in **_Security maturity uplift_** and *continual service improvement*
 
 BugBountys - from a client (SaaS) side though, assisting companies doing the **_initial discovery_** and beginning their **_journey into Bug Bounty programs_** via BugCrowd, HackerOne, Cobalt.IO etc...
