@@ -30,7 +30,7 @@ Cyber Security Professional / People Leader / Cloud Security Advocate / Internet
   <a href="https://david-clarke.id.au/ct2.html"><i class="fas fa-bullseye"></i> Click me?</a>  
 </div>
 
-## Did a pesky recruiter send you this as a PDF? Ugh, please use <a href="https://cv.david-clarke.id.au"><i class="fas fa-passport"></i> **This**</a>
+**Did a pesky recruiter send you this as a PDF? Ugh, please use** <a href="https://cv.david-clarke.id.au"><i class="fas fa-passport"></i> **this**</a>
 
 ## A Little Bit About Me <i class="fas fa-route"></i>
 
