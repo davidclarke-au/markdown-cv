@@ -30,6 +30,8 @@ Cyber Security Professional / People Leader / Cloud Security Advocate / Internet
   <a href="https://david-clarke.id.au/ct2.html"><i class="fas fa-bullseye"></i> Click me?</a>  
 </div>
 
+## Did a pesky recruiter send you this as a PDF? Ugh, please use <a href="https://cv.david-clarke.id.au"><i class="fas fa-passport"></i> **This**</a>
+
 ## A Little Bit About Me <i class="fas fa-route"></i>
 
 I **loathe** writing CV's, but I understand why it's required, hence why it's now in a <a href="https://github.com/davidclarke-au/markdown-cv"><i class="fas fa-code-branch"></i> Code Repository</a>. Simple to update, modern, backed up and demonstrates many technical skills right off the bat.
