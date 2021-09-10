@@ -66,6 +66,8 @@ Cyber Security **_Evangelist_** (is there a non-religious equivalent? If so, tha
 
 **_Cloud Security_**, with preference to   <i class="fab fa-aws"></i>
 
+**_MEDR Technologies_** with preference to CrowdStrike <i class="fas fa-crow"></i>
+
 **_Attack Surface Management_** tooling and strategy
 
 **_Digital Risk Protection_** tooling and strategy
