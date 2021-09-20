@@ -58,7 +58,7 @@ Anyway, all the boring stuff below...
 
 Cyber Security **_Culture, Awareness & Uplift_**
 
-Cyber Security **_Leadership_**
+Cyber Security **_Leadership_** - vCISO, CISOaaS, Deputy CISO etc..
 
 Cyber Security **_Strategy_**
 
