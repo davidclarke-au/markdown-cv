@@ -86,7 +86,11 @@ And _more broadly..._
 
 ## Experience <i class="fas fa-briefcase"></i>
 
-`2019 - Present`
+`2022`
+
+### Coming Soon =]
+
+`2019 - 2021`
 ### CyberCX
 
 **SOC Operations Manager - VIC - Managed Security Services**
