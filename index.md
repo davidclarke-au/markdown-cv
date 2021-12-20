@@ -25,7 +25,7 @@ Cyber Security Professional / People Leader / Cloud Security Advocate / Internet
   <a href="https://github.com/davidclarke-au"><i class="fab fa-github"></i> GitHub - davidclarke-au</a>    <br>
   <a href="https://gitlab.com/davidclarke-au"><i class="fa fa-gitlab"></i> GitLab - davidclarke-au</a>    <br>
   <a href="https://security.david-clarke.id.au/"><i class="fas fa-tools"></i> Tooling</a>    <br>
-  <a href="https://github.com/davidclarke-au?tab=stars"><i class="fas fa-star"></i> Git Stars</a>    <br>
+  <a href="https://github.com/davidclarke-au?tab=stars"><i class="far fa-star"></i> Git Stars</a>    <br>
   <a href="https://twitter.com/davidclarke_au"><i class="fab fa-twitter"></i> @davidclarke_au</a>    <br>
   <a href="https://david-clarke-au.medium.com"><i class="fab fa-medium-m"></i> david-clarke-au.medium.com</a>     <br>
   <a href="https://david-clarke.id.au/ct.html"><i class="fas fa-crow"></i> Canary 1</a>  
