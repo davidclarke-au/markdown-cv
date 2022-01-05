@@ -80,7 +80,7 @@ BugBountys - from a client (SaaS) side though, assisting companies doing the **_
 
 Data Centre - have historically completed a significant amount of work and large projects in **_Data Centres_**. Always something I've enjoyed.
 
-Love communicating, collaborating and generally working with teams (both internal and external) on Slack <i class="fab fa-slack-hash"></i>
+Love communicating, collaborating and generally working with teams (both internal and external) on **_Slack_** <i class="fab fa-slack-hash"></i>
 
 <br>
 <br>
