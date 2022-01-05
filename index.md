@@ -79,6 +79,9 @@ Working with clients to assist in **_Security maturity uplift_** and *continual 
 BugBountys - from a client (SaaS) side though, assisting companies doing the **_initial discovery_** and beginning their **_journey into Bug Bounty programs_** via BugCrowd, HackerOne, Cobalt.IO etc...
 
 Data Centre - have historically completed a significant amount of work and large projects in **_Data Centres_**. Always something I've enjoyed.
+
+Love communicating, collaborating and generally working with teams (both internal and external) on Slack <i class="fab fa-slack-hash"></i>
+
 <br>
 <br>
 And _more broadly..._
