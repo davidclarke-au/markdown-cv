@@ -92,9 +92,9 @@ And _more broadly..._
 
 `2022`
 
-### Coming Soon
+### CrowdStrike
 
-**TBA**
+**Manager, Falcon Complete**
 
 `2019 - 2021`
 ### CyberCX
