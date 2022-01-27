@@ -90,7 +90,7 @@ And _more broadly..._
 
 ## Experience <i class="fas fa-briefcase"></i>
 
-`2022`
+`2022 - Ongoing`
 
 ### CrowdStrike
 
