@@ -62,6 +62,8 @@ Cyber Security **_Culture, Awareness & Uplift_**
 
 Cyber Security **_Leadership_** - vCISO, CISOaaS, Deputy CISO etc..
 
+Cyber Security **_People Leadership_** - Hiring, building, growing and reatining top Security Talent while ensuring they are supported in career growth, interesting and fulfilling work.
+
 Cyber Security **_Strategy_**
 
 Cyber Security **_Evangelist_** (is there a non-religious equivalent? If so, that....)
