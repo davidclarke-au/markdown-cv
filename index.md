@@ -101,19 +101,19 @@ And _more broadly..._
 The Falcon Complete team is composed of seasoned security professionals who have experience in incident handling, incident response, forensics, SOC analysis and IT administration. The team has a global footprint, allowing true 24/7 “follow the sun” coverage.
 <br>
 <br>
-Experts in the CrowdStrike Falcon platform. 
+Experts in the CrowdStrike Falcon platform. <br>
 -The Falcon Complete team holds CrowdStrike Certified Falcon Responder (CCFR) and CrowdStrike Certified Falcon Administrator (CCFA) certifications.
 <br>
 <br>
-Experts in incident response. 
+Experts in incident response. <br>
 -The Falcon Complete team has multiple years of experience in digital forensics and incident response (DFIR).
 <br>
 <br>
-Experts in threat hunting. 
+Experts in threat hunting. <br>
 -24/7 human threat hunting uncovers the faintest trace of malicious activity, in near real time.
 <br>
 <br>
-Experts in threat intelligence. 
+Experts in threat intelligence. <br>
 -Falcon Complete is powered by the CrowdStrike global threat intelligence team, bringing critical context to the response process.
 <br>
 <br>
