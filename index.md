@@ -261,7 +261,7 @@ My **preferred way of learning** is on the job, with smart, driven and passionat
 
 `2022`
 
-**CCFA - CrowdStrike Certified Falcon Administrator** *CrowdStrike University*
+**CCFA - CrowdStrike Certified Falcon Administrator** - *CrowdStrike University*
 
 CrowdStrike Certified Falcon Administrators effectively manage the Falcon platform based on the risk profile of your business, including:
 
