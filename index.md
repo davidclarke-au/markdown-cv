@@ -259,6 +259,19 @@ My **preferred way of learning** is on the job, with smart, driven and passionat
 
 <br>
 
+`2022`
+
+**CCFA - CrowdStrike Certified Falcon Administrator** *CrowdStrike University*
+
+CrowdStrike Certified Falcon Administrators effectively manage the Falcon platform based on the risk profile of your business, including:
+
+- Effective user management
+- Deploying and managing the Falcon sensor
+- Configuring deployment and prevention policies based on business risk
+- Configuring allowlists, blocklists, and file-path exclusions
+- Conducting administrative reporting
+
+
 `2016`
 **AWS Security Fundamentals**
 
