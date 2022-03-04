@@ -94,7 +94,7 @@ And _more broadly..._
 
 `2022 - Ongoing`
 
-### CrowdStrike
+### CrowdStrike !(https://logo.clearbit.com/crowdstrike.co.uk)
 
 **Manager, Falcon Complete**
 
