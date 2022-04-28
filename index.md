@@ -179,6 +179,7 @@ Champion and embed a culture of security awareness and practices in order to ena
 **Analyst IT Security & Operations**
 
 <br>Please use LinkedIn if you'd like more information on this role.<br>
+<br>
 
 **IT Infrastructure Specialist**
 
