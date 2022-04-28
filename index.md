@@ -171,45 +171,18 @@ Champion and embed a culture of security awareness and practices in order to ena
 <br>
 **ISO Compliance & Security Officer**
 
-My role at PageUp at a high level boils down to maintaining and constantly improving PageUp’s Information Security Management System (ISMS) ensuring PageUp People’s security practices meet the needs of its clients and industry standards.<br>
-<br>
-Key tasks include -
-<br>
-maintenance of ISO 27001 certification<br>
-manage information security risks (identify, assess, document, propose treatments and manage action plans)<br>
-work with other team members to implement a variety of information security controls<br>
-conduct regular checks on the effectiveness of security controls<br>
-arrange regular information security meetings and audits<br>
-document clear and concise procedures and configuration standards to meet policy and audit requirements<br>
-regularly review and update information security policies<br>
-process information security incident reports and any suggestions for information security improvements<br>
-develop information security awareness material and run awareness sessions<br>
-work with other team members to assess the information security risks related to new initiatives and identify appropriate controls<br>
-develop information security responses to tenders and client queries<br>
-monitor security threats and bulletins<br>
-monitor data privacy threats and bulletins<br>
-perform Adhoc duties as assigned<br>
+<br>Please use LinkedIn if you'd like more information on this role.<br>
 
 `2012 - 2016`
 ### VicSuper
 
 **Analyst IT Security & Operations**
 
-The purpose of the role is to provide technical expertise and assistance in security operations, projects, infrastructure and daily business needs.
-
-There is a high degree of complexity in the role, balancing projects, vendor management, change management, problem management and incident management.
-
-Security Operations<br>
-Project Management/Coordination<br>
-IT Operations administration<br>
-Stakeholder management<br>
-ServiceDesk Support<br>
-SOE/desktop management<br>
-<br>
+<br>Please use LinkedIn if you'd like more information on this role.<br>
 
 **IT Infrastructure Specialist**
 
-The purpose of the role is to provide technical expertise and assistance in projects, infrastructure and daily business needs.
+<br>Please use LinkedIn if you'd like more information on this role.<br>
 
 `Pre 2012`
 ### Previous Work History
