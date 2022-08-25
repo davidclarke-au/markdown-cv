@@ -320,7 +320,7 @@ Come on, we covered this above... OSINT. Hit up my <a href="https://blog.david-c
 
 **Clearances:** None currently, eligible and willing to obtain
 
-**Family:** Married, Dad to one
+**Family:** Married, Dad to two
 
 ## References <i class="fas fa-user-friends"></i>
 
