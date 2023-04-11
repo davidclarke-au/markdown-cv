@@ -100,6 +100,8 @@ And _more broadly..._
 
 **Manager, Falcon Complete**
 
+I am lucky enough to lead a team of the best Analysts on the globe that stop the most sophisticated hackers and adversaries targeting our many customers.
+<br>
 "We Stop Breaches" - The Falcon Complete MDR offering commits to outcomes, not just SLA's.
 <br>
 <br>
