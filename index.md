@@ -6,6 +6,9 @@ title: David Clarke
 # ![David Clarke](https://david-clarke.id.au/images/logo.png)
 <br>
 Cyber Security Professional / People Leader / Cloud Security Advocate / Internet Explorer
+<br>
+I want to work, for the best, with the best and help them be the best...
+<br>
 
 <br>
 
