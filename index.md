@@ -7,8 +7,8 @@ title: David Clarke
 <br>
 Cyber Security Professional / People Leader / Cloud Security Advocate / Internet Explorer
 <br>
-I want to work, for the best, with the best and help them be the best...
 <br>
+I want to work, for the best, with the best and help them be the best...
 <br>
 
 <br>
