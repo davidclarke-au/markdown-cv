@@ -60,13 +60,15 @@ Anyway, all the boring stuff below...
 
 ## Skillset / Passions / Areas of Interest <i class="far fa-thumbs-up"></i>
 
-Cyber Security **_Culture, Awareness & Uplift_**
-
-Cyber Security **_Leadership_** - vCISO, CISOaaS, Deputy CISO etc..
-
 Cyber Security **_People Leadership_** - Hiring, building, growing and reatining top Security Talent while ensuring they are supported in career growth, interesting and fulfilling work. 
 <br>
 _**"As a leader, I want to hire good people and then get out of their way..."**_
+
+**_Blue Team_** operations and leadership. Leading teams that are the protectors of the business or customers.
+
+Cyber Security **_Culture, Awareness & Uplift_**
+
+Cyber Security **_Leadership_** - vCISO, CISOaaS, Deputy CISO etc..
 
 Cyber Security **_Strategy_**
 
