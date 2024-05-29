@@ -296,6 +296,16 @@ This certification verifies that support center professionals possess the knowle
 
 ## Conference activity <i class="fas fa-chalkboard-teacher"></i>
 
+`2024`
+
+### CrowdStrike CrowdTour 2024
+
+**Speaker**, *Falcon Complete MDR response to SCATTERED SPIDER.*<br/>
+<br>
+I spoke @ both the Sydney and Melbourne CrowdTour events on how Falcon Complete is protecting our customers from Scattered Spider. The talk focused on a 'behind the scenes' look at how we work with our platfrom and friends in Counter Adversary Operations to proactively and reactively thwart this agressive Threat Actor. 
+
+I also provided guidance, both Falcon specific and genrally to assist customers/prospects etc to strenghten their Security posture against the most common TTPs that we see this TA abuse.
+
 `2019`
 
 ### BSides Melbourne 2019
