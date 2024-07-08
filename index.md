@@ -60,6 +60,8 @@ Anyway, all the boring stuff below...
 
 ## Skillset / Passions / Areas of Interest <i class="far fa-thumbs-up"></i>
 
+Passionate **_Servant Leader_** <i class="fas fa-sitemap"></i> I work for my team. “Servant leadership seeks to involve others in decision making, is strongly based in ethical and caring behavior, and enhances the growth of workers while improving the caring and quality of organizational life,” 
+
 Cyber Security **_People Leadership_** - Hiring, building, growing and reatining top Security Talent while ensuring they are supported in career growth, interesting and fulfilling work. 
 <br>
 _**"As a leader, I want to hire good people and then get out of their way..."**_
