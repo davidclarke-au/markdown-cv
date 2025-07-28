@@ -77,9 +77,9 @@ Cyber Security **_Strategy_**
 
 Cyber Security **_Evangelist_** (is there a non-religious equivalent? If so, that....)
 
-**_Generative and Agentic AI_** in both day to day work to streamline data analysis, incident BLUF and Red Team/Threat Actor applications. <i class="fas fa-hexagon-nodes-bolt"></i> and also building and creating app via Lovable and Replit <i class="fas fa-laptop-code"></i>
+**_Generative and Agentic AI_** in both day to day work to streamline data analysis, incident BLUF and Red Team/Threat Actor applications. <i class="fab fa-codepen"></i> and also building and creating app via Lovable and Replit <i class="fas fa-laptop-code"></i>
 
-**_Cloud Security_**, with preference to   t
+**_Cloud Security_**, with preference to AWS <i class="fab fa-aws"></i>
 
 **_MEDR Technologies_** with preference to CrowdStrike <i class="fas fa-crow"></i>
 
