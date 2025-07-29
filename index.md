@@ -54,7 +54,7 @@ Followed by my work history.
 
 Followed by my training and education.
 
-What I love doing is **TALKING** to people.... So please feel free to get in contact with me and setup a chat.
+What I love doing is **TALKING** to people.... Especially with AI being so prominent, the skills that we will be looking for in the future (IMO) are face to face interactions with trusted people/partners/vendors. So please feel free to get in contact with me and setup a chat.
 
 Anyway, all the boring stuff below... 
 
