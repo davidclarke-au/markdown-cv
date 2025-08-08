@@ -13,7 +13,7 @@ I want to work, for the best, with the best and help them be the best...
 <br>
 <i class="fas fa-tram"></i>  **Melbourne**<br/>
 <i class="fas fa-globe-asia"></i>  Australia<br/>
-<i class="fas fa-laptop-house"></i>  **Working 100% remotely**<br/>
+<i class="fas fa-laptop-house"></i>  I am currently working remote first, but crave those face to face interactions with my team, my peers and my customers. Not scared of the office, the watercooler or not being able to find a teaspoon in the kitchen.<br/>
 
 <i class="fas fa-at"></i>  <a href="mailto:dave@david-clarke.id.au">dave@david-clarke.id.au</a> <br> 
 <i class="fas fa-mobile-alt"></i>  +61 Please reach out to me privately (email/keybase) if you require my mobile #
