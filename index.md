@@ -103,7 +103,15 @@ And _more broadly..._
 
 ## Experience <i class="fas fa-briefcase"></i>
 
-`2022 - Current`
+`2026 - Current`
+
+### Palo Alto Networks
+
+**Domain Consultant - Cortex**
+
+As a Domain Consultant - Cortex at Palo Alto Networks, I bridge the gap between complex security challenges and industry-leading technical solutions. Leveraging my SecOps background I serve as a technical advisor for the PANW Cortex line of products.
+
+`2022 - 2025`
 
 ### CrowdStrike 
 
