@@ -81,7 +81,7 @@ Cyber Security **_Evangelist_** (is there a non-religious equivalent? If so, tha
 
 **_Cloud Security_**, with preference to AWS <i class="fab fa-aws"></i>
 
-**_MEDR Technologies_** with preference to CrowdStrike <i class="fas fa-crow"> and Palo Alto Networks Cortex <i class="fa-solid fa-tornado"></i></i>
+**_MEDR Technologies_** with preference to CrowdStrike <i class="fas fa-crow"> and Palo Alto Networks Cortex <i class="fa-solid fa-tornado"></i>
 
 **_Attack Surface Management_** tooling and strategy with preference to Palo Alto Networks XPanse <i class="fa-solid fa-bridge"></i>
 
