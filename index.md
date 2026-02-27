@@ -31,7 +31,8 @@ I want to work, for the best, with the best and help them be the best...
   <a href="https://twitter.com/davidclarke_au"><i class="fab fa-twitter"></i> @davidclarke_au</a>    <br>
   <a href="https://david-clarke-au.medium.com"><i class="fab fa-medium-m"></i> david-clarke-au.medium.com</a>     <br>
   <a href="https://david-clarke.id.au/ct.html"><i class="fas fa-crow"></i> Canary 1</a>  
-  <a href="https://david-clarke.id.au/ct2.html"><i class="fas fa-bullseye"></i> Canary 2</a>  
+  <a href="https://david-clarke.id.au/ct2.html"><i class="fas fa-bullseye"></i> Canary 2</a> 
+  <a href="iukp5yd9jp0hapruxe4gg1mk5.canarytokens.com"><i class="fas fa-bullseye"></i> Canary 3</a> 
 </div>
 
 <br>
