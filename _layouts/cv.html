@@ -10,15 +10,16 @@
   <script src="https://kit.fontawesome.com/fe14704fde.js" crossorigin="anonymous"></script>
 </head>
 <body>
-   <!-- Dark mode toggle -->
-  <button id="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">
-    ☀ / ☾
-  </button>
 
-  {{ content }}
+  <button id="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">☀ / ☾</button>
+
+  <div id="main">
+    <div id="content">
+      {{ content }}
+    </div>
+  </div>
 
   <script>
-    // Apply saved preference immediately on load
     if (localStorage.getItem('theme') === 'dark') {
       document.body.classList.add('dark');
     }
@@ -27,10 +28,6 @@
       localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
     }
   </script>
-  <div id="main">
-    <div id="content">
-    {{ content }}
-    </div>
-  </div>
+
 </body>
 </html>
