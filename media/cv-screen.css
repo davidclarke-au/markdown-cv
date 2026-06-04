@@ -187,7 +187,39 @@ strong {
 	display: none;
 }
 
+/* ── Dark Mode Toggle Button ── */
+#theme-toggle {
+  position: fixed;
+  top: 14px;
+  right: 18px;
+  z-index: 100;
+  background: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 4px 10px;
+  font-size: 0.75em;
+  cursor: pointer;
+  color: inherit;
+  opacity: 0.5;
+  transition: opacity 0.2s;
+}
+#theme-toggle:hover { opacity: 1; }
 
+/* ── Dark Mode Colours ── */
+body.dark {
+  background: #1a1a1a;
+  color: #d4d0c8;
+}
+body.dark a {
+  color: #7eb8d4;
+}
+body.dark h1, body.dark h2, body.dark h3 {
+  color: #e8e4dc;
+}
+body.dark #footer {
+  border-top-color: #333;
+  color: #666;
+}
 
 /*
 @media only screen and (max-width: 480px) {
